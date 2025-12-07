@@ -1,0 +1,1097 @@
+/*=== global ===*/
+.d3cp_clear {
+	clear: both; height: 0; line-height: 0; overflow: hidden;
+}
+/*=== main content ===*/
+#d3cp_main {
+	clear: both; color: #555; float: left; font-family: Helvetica, Arial, sans-serif; padding: 0 15px 20px 30px; width: 610px;
+}
+#D3cpWidget {
+	color: #555; font-family: Helvetica, Arial, sans-serif; max-width: 610px; text-align: left;
+}
+.d3cp_des {
+	font-size: 16px; line-height: 1.25em; margin-bottom: 20px;
+}
+.d3cp_des.d3cp_des_result {
+	color: #7E7E7E; font-size: 16px; font-weight: bold; margin-bottom: 25px;
+}
+.d3cp_confirmation {
+	margin: 10px 20px;
+}	
+.d3cp_des_result_row {
+	display: inline-block; font-size: 14px; line-height: 22px; margin: 5px 0;
+}
+.d3cp_des_row_title {
+	color: #0066aa; display: block; float: left; font-weight: bold; margin: 0 5px 0 0; padding-left: 10px; width: 190px;
+}
+.d3cp_des_row_detail {
+	display: block; float: left; font-weight: normal; padding-right: 7px; width: 340px;
+}
+#D3cpWidget hr {
+	border-color: #DDD; border-style: dotted; border-width: 1px 0 0; clear: both; height: 0; margin: 20px 0;
+}
+#D3cpWidget hr.d3cp_hr_solid {
+	border-style: solid; margin: 20px 0;
+}
+#D3cpWidget hr.d3cp_hr_solid {
+	border-color: #AABED6; border-style: solid; margin: 20px 0;
+}
+#D3cpWidget hr.d3cp_hr_nomargin {
+	margin: 0;
+}
+#D3cpWidget hr.d3cp_hr_narrow {
+	margin: 10px 0;
+}
+#D3cpWidget hr.d3cp_hr_wide {
+	margin: 40px 0;
+}
+#D3cpWidget hr.d3cp_hr_short {
+	margin-left: 10px; margin-right: 10px;
+}
+#D3cpWidget ul {
+	padding:0;
+}
+/*=== feature ===*/
+.d3cp_feature_wrap {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_featured_bg.png) repeat-x scroll left top transparent; display: inline-block; padding: 20px 20px 0; max-width: 570px;
+}
+.d3cp_feature_sum {
+	margin: 0 0 20px 0; font-size: 14px; line-height: 30px;
+}
+.d3cp_feature_sum .d3cp_button_reviewus_mid {
+	float: right;
+}
+.d3cp_feature_sum span {
+	font-size: 24px; color: #178b05; font-weight: bold;
+}
+.d3cp_button_request {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_button_request_mid.png) no-repeat scroll left top transparent; border: 0 none; float: right; height: 30px; margin-top: 5px; width: 153px;
+}
+.d3cp_itemized_box {
+	float: right; font-size: 12px; width: 233px;
+}
+.d3cp_itemized_box.bordertop {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_itemized_box_top.png) no-repeat scroll center top transparent; height:10px;
+}
+.d3cp_itemized_box.bodymiddle {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_itemized_box_middle.png) repeat-y scroll center center transparent; padding: 3px 0;
+}
+.d3cp_itemized_box.borderbottom {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_itemized_box_bottom.png) no-repeat scroll center bottom transparent; height:10px;
+}
+.d3cp_itemized_box .d3cp_csi_itemize {
+	color: #323232; font-size: 12px; height: 14px; line-height: 14px; padding: 1px 10px 2px 20px;
+}
+.d3cp_barometer {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_barchart_dark.gif) left top no-repeat; width: 78px; height: 9px; float: left; margin-right: 10px; margin-top: 3px;
+}
+.d3cp_barometer var {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_barchart_high.gif) right top no-repeat; float: left; width: 100%; height: 9px;
+}
+.d3cp_pink_bg {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_pink_bg.png) no-repeat scroll right top transparent; clear: both; height: 55px; margin: 0; width: 575px;
+}
+.d3cp_top10_icon {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_top10_icon.png) left center no-repeat; padding: 0 0 0 45px; line-height: 55px; margin-left: 20px; color: #545454; font-style: italic; font-size: 14px;
+}
+/*=== video ===*/
+.d3cp_video1 {
+	margin-right: 5px;
+}
+.d3cp_video{ text-align:center;}
+/*=== review box ===*/
+.d3cp_review_seal {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_review_certified.png) no-repeat scroll 0 0 transparent; color: #545454; float: right; font-size: 11px; font-style: italic; font-weight: normal; line-height: 24px; margin-bottom: 30px; padding-left: 27px;
+}
+.d3cp_review_box {
+	font-size: 13px; margin: 0 0 0 10px; clear: both; overflow: auto; display: flex;
+}
+.d3cp_review_pic {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_review_default.png) left top no-repeat; float: left; width: 33px; height: 50px;
+}
+.d3cp_review_female {
+	background-image: url(//www.demandforce.com/widget/css/images/d3cp_review_female.png);
+}
+.d3cp_review_male {
+	background-image: url(//www.demandforce.com/widget/css/images/d3cp_review_male.png);
+}
+.d3cp_review_main {
+	float: left; max-width: 550px; margin-left: 15px; flex:1;
+}
+.d3cp_star_rating_wrap {
+	float: left; height: 14px; padding-right: 10px; width: 80px;
+}
+.d3cp_review_title {
+	color: #333; display: inline-block; font-size: 13px; font-weight: bold; line-height: 15px; max-width: 320px;
+}
+.d3cp_review_title.featured {
+	width: 270px;
+}
+.d3cp_review_date {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_review_certified.png) no-repeat scroll 0 0 transparent; color: #777; float: right; font-size: 12px; min-height: 22px; line-height: 22px; padding: 0 0 0 30px;
+}
+.d3cp_nobg {
+	background-image: none; padding: 0;
+}
+.d3cp_review_name {
+	color: #777; display: block; font-size: 12px; font-style: italic; padding: 2px 0 0;
+}
+.d3cp_review_content {
+	color: #333; font-size: 12px; padding-right: 35px; line-height: 18px;
+}
+.d3cp_review_bizcomment {
+	border-left: 2px solid #006699; color: #333; display: inline-block; margin: 10px 0 0; padding-left: 10px;
+}
+.d3cp_review_bizcomment .expl {
+	color: #777; font-size: 11px; font-style: italic;
+}
+.d3cp_review_period {
+    font-size: 11px;
+}
+.d3cp_button_mid {
+	height: 30px; width: 153px; float: left;
+}
+.d3cp_review_button_wrap {
+	padding: 20px 0 70px 30px;
+}
+.d3cp_review_button_wrap a {
+	margin: 0 0 0 20px;
+}
+.d3cp_button_viewreviews_mid {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_button_viewreviews_mid.png) left top no-repeat;
+}
+.d3cp_button_reviewus_mid {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_button_reviewus_mid.png) left top no-repeat;
+}
+/*=== the top review with barometer ===*/
+.d3cp_feature_wrap .d3cp_review_box {
+	float: left; margin: 0; overflow: hidden;
+}
+.d3cp_feature_wrap .d3cp_review_main {
+	max-width: 240px;
+}
+.d3cp_feature_wrap .d3cp_review_date {
+	float: left; line-height: 24px;
+}
+.d3cp_feature_wrap .d3cp_review_date .d3cp_review_period {
+	display: inline;
+}
+.d3cp_feature_wrap .d3cp_review_content {
+	clear: both; padding-right: 10px;
+}
+#D3cpWidget h3 {
+	font-size: 18px; color: #0066aa; margin: 0 0 10px;
+}
+#d3cp_main h3 {
+	font-size: 18px; color: #0066aa; margin: 0 0 15px;
+}
+/*=== review pages ===*/
+.d3cp_itemized_box .d3cp_review_itemize {
+	color: #323232; font-size: 12px; line-height: 14px; padding: 1px 10px 2px 25px;
+}
+.d3cp_review_itemize .totalcount {
+	font-weight:bold;
+}
+.d3cp_review_itemize span {
+	padding-left: 15px; vertical-align: middle;
+}
+.d3cp_review_itemize img {
+	vertical-align: middle;
+}
+.d3cp_review_order {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_review_order_bg.gif) repeat-x left top; margin: 30px 0; font-size: 13px; line-height: 40px; padding: 0 20px;
+}
+.d3cp_review_order a {
+	font-weight: bold;
+}
+.d3cp_review_page {
+	float: right;
+}
+.d3cp_review_page * {
+	padding: 0 2px;
+}
+.d3cp_review_sort a {
+	padding: 0 20px 0 5px; margin-right: 5px;
+}
+.d3cp_review_sort a:hover {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_sort_desc_high.gif) no-repeat right center;
+}
+a.d3cp_review_sort_asc {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_sort_asc.gif) no-repeat right center;
+}
+a.d3cp_review_sort_asc:hover {
+	background-image: url(//www.demandforce.com/widget/css/images/d3cp_sort_desc_high.gif);
+}
+a.d3cp_review_sort_desc {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_sort_desc.gif) no-repeat right center;
+}
+a.d3cp_review_sort_desc:hover {
+	background-image: url(//www.demandforce.com/widget/css/images/d3cp_sort_asc_high.gif);
+}
+.d3cp_review_seal_wrap {
+	display: inline-block; padding: 10px 5px 30px 25px; max-width: 580px;
+}
+.d3cp_seal_expl {
+	display: inline-block; float: left; font-size: 13px; font-style: italic; min-height: 51px; max-width: 388px; display: flex;
+}
+.d3cp_seal_expl_left {
+	float: left; min-height: 52px; width: 6px; line-height:0; font-size:0; display: flex; flex-direction: column;
+}
+.d3cp_seal_expl_left #d3cp_topleft {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_corner_white_6.png) no-repeat scroll left top transparent; height: 6px; width: 6px;
+}
+.d3cp_seal_expl_left #d3cp_midleft {
+	background-color: white; border-left: 1px solid #D7D8DC; min-height: 40px; width: 5px; height: calc(100% - 12px);
+}
+.d3cp_seal_expl_left #d3cp_btmleft {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_corner_white_6.png) no-repeat scroll left bottom transparent; height: 6px; width: 6px;
+}
+.d3cp_seal_expl_center {
+	background-color: white; border-bottom: 1px solid #D7D8DC; border-top: 1px solid #D7D8DC; display: inline-block; float: left; min-height: 52px; padding: 7px; max-width: 362px; display: flex;
+}
+.d3cp_seal_expl_center #d3cp_seal {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_review_certified_big.png) no-repeat scroll center center transparent; display: inline-block; float: left; height: 36px; width: 36px;
+}
+.d3cp_seal_expl_center #d3cp_text {
+	display: inline-block; min-height: 36px; line-height: 18px; padding-left: 15px; max-width: 305px; flex:1;
+}
+.d3cp_seal_expl_right {
+	display: inline-block; min-height: 52px; width: 6px; line-height:0; font-size:0; float:left; display: flex; flex-direction: column;
+}
+.d3cp_seal_expl_right #d3cp_topright {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_corner_white_6.png) no-repeat scroll right top transparent; height: 6px; width: 6px;
+}
+.d3cp_seal_expl_right #d3cp_midright {
+	background-color: white; border-right: 1px solid #D7D8DC; min-height: 40px; width: 6px; height: calc(100% - 12px);
+}
+.d3cp_seal_expl_right #d3cp_btmright {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_corner_white_6.png) no-repeat scroll right bottom transparent; height: 6px; width: 6px;
+}
+.d3cp_review_seal_wrap a.d3cp_button_mid {
+	float: right; margin: 10px 0 0 30px;
+}
+/* ===== review stars and rater ==== */
+.d3cp_star_rating_min {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_stars_3v_14_16.png) repeat-x scroll 0 -28px transparent; float: left; height: 14px; list-style: none outside none; margin: 0 !important; padding: 0 !important; position: relative; width: 80px; overflow:hidden; 
+}
+.d3cp_star_rating_min li {
+	padding: 0px !important; margin: 0px !important; float: left; display: block; height: 14px; /* single star height */
+	text-decoration: none; text-indent: -9000px; z-index: 20; position: absolute; overflow:hidden;
+}
+.d3cp_star_rating_min li.score5,#content .d3cp_star_rating_min li.score5 {
+	width: 80px; /* (star width)*5 */
+	background: url(//www.demandforce.com/widget/css/images/d3cp_stars_3v_14_16.png) 0 0;
+}
+.d3cp_star_rating_min li.score0p5,#content .d3cp_star_rating_min li.score0p5 {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_stars_3v_14_16.png) 0 -14px; width: 16px; /* single star width */
+}
+.d3cp_star_rating_min li.score1, #content .d3cp_star_rating_min li.score1 {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_stars_3v_14_16.png) 0 0; width: 16px; /* single star width */
+}
+.d3cp_star_rating_min li.score1p5,#content .d3cp_star_rating_min li.score1p5 {
+	width: 32px; /* (star width)*2 */
+	background: url(//www.demandforce.com/widget/css/images/d3cp_stars_3v_14_16.png) 0 0;
+}
+.d3cp_star_rating_min li.score1p5 .astar {
+	width: 14px; /* (star width)*1 */
+	height: 14px; /* single star height */
+	left: 16px; /* (star width)*1 */
+	background: url(//www.demandforce.com/widget/css/images/d3cp_stars_3v_14_16.png) 0 -14px; position: absolute;
+}
+.d3cp_star_rating_min li.score2, #content .d3cp_star_rating_min li.score2 {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_stars_3v_14_16.png) 0 0; width: 32px; /* (star width)*2 */
+}
+.d3cp_star_rating_min li.score2p5,#content .d3cp_star_rating_min li.score2p5 {
+	width: 48px; /* (star width)*3 */
+	background: url(//www.demandforce.com/widget/css/images/d3cp_stars_3v_14_16.png) 0 0;
+}
+.d3cp_star_rating_min li.score2p5 .astar {
+	width: 14px; /* (star width)*1 */
+	height: 14px; /* single star height */
+	left: 32px; /* (star width)*2 */
+	background: url(//www.demandforce.com/widget/css/images/d3cp_stars_3v_14_16.png) 0 -14px; position: absolute;
+}
+.d3cp_star_rating_min li.score3,#content .d3cp_star_rating_min li.score3 {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_stars_3v_14_16.png) 0 0; width: 48px; /* (star width)*3 */
+}
+.d3cp_star_rating_min li.score3p5,#content .d3cp_star_rating_min li.score3p5 {
+	width: 64px; /* (star width)*4 */
+	background: url(//www.demandforce.com/widget/css/images/d3cp_stars_3v_14_16.png) 0 0;
+}
+.d3cp_star_rating_min li.score3p5 .astar {
+	width: 14px; /* (star width)*1 */
+	height: 14px; /* single star height */
+	left: 48px; /* (star width)*3 */
+	background: url(//www.demandforce.com/widget/css/images/d3cp_stars_3v_14_16.png) 0 -14px; position: absolute;
+}
+.d3cp_star_rating_min li.score4,#content .d3cp_star_rating_min li.score4 {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_stars_3v_14_16.png) 0 0; width: 64px; /* (star width)*4 */
+}
+.d3cp_star_rating_min li.score4p5,#content .d3cp_star_rating_min li.score4p5 {
+	width: 80px; /* (star width)*5 */
+	background: url(//www.demandforce.com/widget/css/images/d3cp_stars_3v_14_16.png) 0 0;
+}
+.d3cp_star_rating_min li.score4p5 .astar {
+	width: 14px; /* (star width)*1 */
+	height: 14px; /* single star height */
+	left: 64px; /* (star width)*4 */
+	background: url(//www.demandforce.com/widget/css/images/d3cp_stars_3v_14_16.png) 0 -14px; position: absolute;
+}
+.d3cp_review_rater_wrap {
+	height: 30px;
+}
+.d3cp_fiveStarWrap {
+	display: inline-block; height: 24px; padding: 2px 0 0; width: 133px;
+}
+.d3cp_review_rater {
+	list-style: none; margin: 0px; padding: 0px; width: 130px; /* star width*5 */
+	height: 24px; /* single star height */
+	position: relative; background: url(//www.demandforce.com/widget/css/images/d3cp_stars_3v_24_26.png) 0 -48px repeat-x;
+}
+.d3cp_review_rater li {
+	padding: 0px; margin: 0px; float: left;
+}
+.d3cp_review_rater li a {
+	display: block; width: 13px; /* half star width */
+	height: 24px; /* single star height */
+	text-decoration: none; text-indent: -9000px; z-index: 20; position: absolute; padding: 0px; cursor: pointer;
+}
+.d3cp_review_rater li a:hover {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_stars_3v_24_26.png) 0 0; z-index: 1; left: 0px;
+}
+.d3cp_review_rater li a.selected {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_stars_3v_24_26.png) 0 0;
+}
+.d3cp_review_rater a.d3cp_half_star {
+	left: 0px;
+}
+.d3cp_review_rater a.d3cp_half_star:hover {
+	width: 13px; /* half star width */
+}
+.d3cp_review_rater a.d3cp_half_star_selected {
+	left: 0px; width: 13px;
+}
+.d3cp_review_rater a.d3cp_half_star_selected:hover {
+	left: 0px;
+}
+.d3cp_review_rater a.d3cp_one_star {
+	left: 13px; /* half star width */
+}
+.d3cp_review_rater a.d3cp_one_star:hover {
+	width: 26px; /* one star width */
+}
+.d3cp_review_rater a.d3cp_one_star_selected {
+	left: 0px; width: 26px;
+}
+.d3cp_review_rater a.d3cp_one_star_half {
+	left: 26px; /* one star width */
+}
+.d3cp_review_rater a.d3cp_one_star_half:hover {
+	width: 39px;
+}
+.d3cp_review_rater a.d3cp_one_star_half_selected {
+	left: 0px; width: 39px;
+}
+.d3cp_review_rater a.d3cp_two_stars {
+	left: 39px;
+}
+.d3cp_review_rater a.d3cp_two_stars:hover {
+	width: 52px;
+}
+.d3cp_review_rater a.d3cp_two_stars_selected {
+	left: 0px; width: 52px;
+}
+.d3cp_review_rater a.d3cp_two_stars_half {
+	left: 52px;
+}
+.d3cp_review_rater a.d3cp_two_stars_half:hover {
+	width: 65px;
+}
+.d3cp_review_rater a.d3cp_two_stars_half_selected {
+	left: 0px; width: 65px;
+}
+.d3cp_review_rater a.d3cp_three_stars {
+	left: 65px;
+}
+.d3cp_review_rater a.d3cp_three_stars:hover {
+	width: 78px;
+}
+.d3cp_review_rater a.d3cp_three_stars_selected {
+	left: 0px; width: 78px;
+}
+.d3cp_review_rater a.d3cp_three_stars_half {
+	left: 78px;
+}
+.d3cp_review_rater a.d3cp_three_stars_half:hover {
+	width: 91px;
+}
+.d3cp_review_rater a.d3cp_three_stars_half_selected {
+	left: 0px; width: 91px;
+}
+.d3cp_review_rater a.d3cp_four_stars {
+	left: 91px;
+}
+.d3cp_review_rater a.d3cp_four_stars:hover {
+	width: 104px;
+}
+.d3cp_review_rater a.d3cp_four_stars_selected {
+	left: 0px; width: 104px;
+}
+.d3cp_review_rater a.d3cp_four_stars_half {
+	left: 104px;
+}
+.d3cp_review_rater a.d3cp_four_stars_half:hover {
+	width: 117px;
+}
+.d3cp_review_rater a.d3cp_four_stars_half_selected {
+	left: 0px; width: 117px;
+}
+.d3cp_review_rater a.d3cp_five_stars {
+	left: 117px;
+}
+.d3cp_review_rater a.d3cp_five_stars:hover {
+	width: 130px;
+}
+.d3cp_review_rater a.d3cp_five_stars_selected {
+	left: 0px; width: 130px;
+}
+.d3cp_review_postas {
+	color: #888; display: inline; font-style: italic; font-weight: bold;
+}
+.d3cp_review_postas .title {
+	color: #0066AA; font-weight: normal;
+}
+.d3cp_form {
+	font-size: 14px;
+}
+.d3cp_form input[type="text"]:focus,.d3cp_form textarea:focus {
+	-moz-border-radius: 5px 5px 5px 5px; background-color:#F4F8FE; border-color: SteelBlue LightSkyBlue LightSteelBlue LightSteelBlue; border-style: solid; border-width: 1px;padding:2px;
+}
+.d3cp_form select:focus {
+	-moz-border-radius: 5px 5px 5px 5px; border-color: SteelBlue LightSkyBlue LightSteelBlue LightSteelBlue; border-style: solid; border-width: 1px;padding:2px;
+}
+.d3cp_form select {
+	border: 1px solid silver; color: #555; font-family: Helvetica, Arial, sans-serif; font-style: italic; height: 26px; line-height: 30px; padding: 2px; vertical-align: bottom;
+}
+.d3cp_form_row {
+	display: block; margin: 0 0 18px;
+}
+.d3cp_form_row.highlight{
+	background-color: #FFFEDC; padding: 0 0 5px; width: 610px;
+}
+.d3cp_form_row.highlight .smallblack{
+	color: #555; font-size: 13px;
+}
+.d3cp_form_title {
+	color: #0066AA; display: inline-block; float: left; font-size: 16px; font-weight: bold; line-height: 34px; margin: 0 5px 0 0; padding-left: 10px; width: 180px;
+}
+.d3cp_form_title.forComment{
+    line-height: 21px;
+}
+.d3cp_form_title.d3cp_premium{
+    text-align: center;
+}
+.d3cp_form_title.d3cp_marked {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_mark_red.png) no-repeat scroll left 8px transparent;
+}
+.d3cp_form_detail {
+	display: inline-block; font-size: 16px; line-height: 34px; padding-right: 7px;
+}
+.d3cp_form_detail .d3cp_premium {
+	color: #0066AA; display: inline-block; font-weight: normal; line-height: 18px; word-wrap: normal;	
+}
+.d3cp_confirmation_row {
+	display: inline-block; margin: 0 0 10px;
+}
+.d3cp_confirmation_row .d3cp_title{
+	color: #0066AA; display: inline-block; float: left; font-size: 16px; font-weight: bold; line-height: 26px; margin: 0 5px 0 0; padding-left: 10px; width: 180px;
+}
+.d3cp_confirmation_row .d3cp_detail {
+	display: inline-block; font-size: 16px; line-height: 26px; padding-right: 7px; width: 360px;
+}
+.d3cp_confirmation_row .d3cp_detail.d3cp_text {
+    line-height: 22px;
+}
+.d3cp_scheduler_wrap {
+	display: inline-block;
+}
+.d3cp_input_outer {
+	display: inline-block; font-style: italic; padding-right: 7px;
+}
+.d3cp_input_wrap {
+	-moz-border-radius: 5px 5px 5px 5px; background: none repeat scroll 0 0 #EEE; display: inline-block; line-height: 1; margin-bottom: 3px; padding: 3px;
+}
+.d3cp_form_line_display {
+	display: inline-block; height: 23px; line-height: 23px; margin: 5px 0 0; vertical-align: bottom;
+}
+.d3cp_from_radios_inline_wrap {
+	display: inline-block; padding-top: 8px; vertical-align: top;
+}
+.d3cp_form_review_exp {
+	font-size: 13px; margin: 0 10px; vertical-align: super;
+}
+.d3cp_review_referred_wrap {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_featured_bg.png) repeat-x scroll left top transparent; display: inline-block; padding: 30px 40px 0; width: 530px;
+}
+.d3cp_review_referred_wrap .d3cp_des.d3cp_des_result {
+	margin-bottom:40px;
+}
+.d3cp_review_referred_wrap .d3cp_review_box{
+	margin:0;
+}
+.d3cp_review_referred_wrap .d3cp_review_main{
+	margin-left:0;width: 530px;
+}
+.d3cp_review_referred_tiles{
+	padding: 10px 40px;width: 530px;
+}
+.d3cp_review_referred_tiles .d3cp_des_result{
+ 	margin-bottom: 15px;
+}
+.d3cp_condor_aline{
+	text-align:center;
+}
+.d3cp_condor_tile{
+	background: url(//www.demandforce.com/widget/css/images/button_refer_a_friend_1.png) no-repeat transparent; display: inline-block;height: 80px;margin: 0 15px;width: 210px;
+}
+.d3cp_condor_tile.google{
+	background: url(//www.demandforce.com/widget/css/images/button_review_us_googlePlus.png) no-repeat top left transparent; height: 80px;width: 210px;
+}
+.d3cp_condor_tile.refer{
+	background-position:0 0px;
+}
+
+.d3cp_input_long {
+	width: 390px;
+}
+.d3cp_input_normal {
+	width: 296px;
+}
+.d3cp_input_median {
+	width: 180px;
+}
+.d3cp_input_short {
+	width: 115px;
+}
+.d3cp_input_name {
+	width: 135px;
+}
+.d3cp_select_timeofday {
+	width: 124px;
+}
+.d3cp_input_text {
+	border-color: lightslateGray ghostWhite snow lightgray; border-style: solid;border-width: 1px; height: 22px; line-height: 22px; padding: 2px;
+}
+.d3cp_input_select {
+	height: 28px; ling-height: 28px; padding: 3px; vertical-align: middle; width: 396px;
+}
+.d3cp_input_select option {
+	height: 28px; line-height: 28px; vertical-align: middle;
+}
+.d3cp_input_captcha {
+	letter-spacing: 5px; width: 130px;
+}
+.d3cp_input_date {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_calendar.gif) no-repeat scroll 97px 3px #FFF; border: 1px solid silver; color: #555; font-family: Arial, Helvetica, sans-serif; height: 22px; line-height: 22px; padding: 2px 2px 2px 3px; width: 116px;
+}
+.d3cp_form input.d3cp_input_date:focus {
+	background-color:#F4F8FE; border-width: 1px; padding: 2px 2px 2px 3px;
+}
+.d3cp_select_year {
+	width: 80px;
+}
+.d3cp_select_modelmake {
+	width: 164px;
+}
+.d3cp_select_model {
+	width: 130px;
+}
+.d3cp_select_apptService {
+	width: 396px;
+}
+.d3cp_form_exp {
+	color: #555; font-size: 12px; font-weight: normal; line-height: 15px; padding-left: 4px;
+}
+.d3cp_form_exp.d3cp_marked {
+	color: #C87E1F; font-style: italic; padding-top: 3px;
+}
+.d3cp_textarea {
+	height: 130px;
+}
+.d3cp_captcha_wrap {
+	margin-bottom: 3px; padding: 3px 3px 3px 10px;
+}
+.d3cp_captcha_img {
+	border: 1px solid #020202;
+}
+.d3cp_captcha_change {
+	color: #0066aa; font-style: normal; padding-left: 12px;
+}
+.d3cp_form_row.d3cp_form_single {
+	display: inline-block; margin-left: 195px; margin-top: 2px; padding: 10px 0 0;
+}
+.d3cp_button_submit {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_button_submit_mid.png) no-repeat scroll 0 0 transparent;
+}
+.d3cp_form_single .d3cp_button_submit {
+	margin: 10px 0 15px;
+}
+.d3cp_button_submit.delete {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_button_delete_mid.png) no-repeat scroll 0 0 transparent;
+}
+.d3cp_button_submit.next {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_button_next_mid.png) no-repeat scroll 0 0 transparent;
+}
+.d3cp_button_submit.preview {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_button_preview_mid.png) no-repeat scroll 0 0 transparent;
+}
+.d3cp_button_submit.unsubscribe {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_button_unsubscribe_mid.png) no-repeat scroll 0 0 transparent;
+}
+.d3cp_form_comment {
+	clear: both; font-size: 14px; font-style: normal; line-height: 20px;
+}
+.d3cp_df_seal_widget {
+	display: block; float: right; height: 48px; padding: 20px 5px 0 0; width: 157px;
+}
+.d3cp_df_seal {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_seal.png) no-repeat scroll 0 0 transparent; float: right; height: 48px; margin-top: 1px; width: 157px;
+}
+.d3cp_aboutus_content {
+	border: 1px solid #DADADA; display: table; overflow: auto; padding: 30px 15px;
+}
+.d3cp_aboutus_content .d3cp_binfo_sum {
+	border: 0 none; float: left; margin: 0; padding-bottom: 0; width: 260px;
+}
+.d3cp_aboutus_content .d3cp_binfo_sum span {
+	font-size: 13px; line-height: 20px;
+}
+.d3cp_aboutus_content .d3cp_bus_links_wrap {
+	border: 0 none; margin: 15px 0;
+}
+.d3cp_bttns_inline {
+	clear: both; height: 30px; padding: 20px 0 0;
+}
+.d3cp_button_long {
+	float: left; height: 30px; width: 180px;
+}
+.d3cp_bttns_inline a {
+	margin-right: 18px;
+}
+.d3cp_bttns_inline div {
+	margin-right: 18px;
+}
+.d3cp_button_long.d3cp_button_reviewus {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_button_reviewus_long.png) no-repeat scroll left center transparent;
+}
+.d3cp_button_long.d3cp_button_workhere {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_button_workhere.png) no-repeat scroll left center transparent;width:203px;
+}
+.d3cp_button_direction.long {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_button_derection_long.png) left top no-repeat; height: 30px; width: 180px; display:inline-block;
+}
+.d3cp_button_addtocal.long {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_button_addtocal_long.png) left top no-repeat; height: 30px; width: 180px; display:inline-block;
+}
+.d3cp_button_long.d3cp_button_cx_send {
+	background: url("images/d3cp_button_cx_send_180_131.png") no-repeat transparent; 
+}
+.d3cp_button_long.d3cp_button_cx_send.to_email{
+	background-position:0 0;
+}
+.d3cp_button_long.d3cp_button_cx_send.to_email.disabled{
+	background-position:0 -30px;margin-top: 1px;
+}
+.d3cp_button_long.d3cp_button_cx_send.to_phone{
+	background-position:0 -60px;
+}
+.d3cp_button_long.d3cp_button_cx_send.to_phone.disabled{
+	background-position:0 -90px;margin-top: 1px;
+}
+.d3cp_button_long.last {
+	margin-right: 0;
+}
+.d3cp_button_long.d3cp_button_skiptosurvey {
+	background: url(//www.demandforce.com/widget/css/images/d3cp_button_skiptosurvey.png) no-repeat scroll 0 0 transparent; width:203px;
+}
+.d3cp_form_single .d3cp_bttns_inline {
+	padding-top: 10px;
+}
+.d3cp_form_single .d3cp_bttns_inline .d3cp_button_submit {
+	margin: 0 18px 0 0;
+}
+.d3cp_des.d3cp_bizlogo {
+	display: inline-block; 
+}
+.d3cp_aboutus_bizlogo {
+	display: block; float: left; padding-bottom: 2px; padding-right: 10px;
+}
+.d3cp_aboutus_busdescription {
+	display: block;
+}
+.d3cp_aboutus_content .d3cp_bus_fact {
+	font-size: 14px; line-height: 19px;
+}
+.d3cp_bus_fact_row {
+	display: inline-block; margin: 5px 0;
+}
+.d3cp_bus_fact_row .title {
+	color: #0066aa; display: block; float: left; font-weight: bold; width: 130px;
+}
+.d3cp_bus_fact_row .detail {
+	display: block; float: left; width: 420px;
+}
+.d3cp_form_type_bar {
+    background-color: #C8E4F2; display: inline-block; font-size: 15px; font-weight: bold; line-height: 32px; margin: 0 0 15px; padding: 0 10px; width: 590px;
+}
+.d3cp_form_type_bar.margin_top {
+	margin-top: 15px;
+}
+.d3cp_form_type_bar .comments {
+	color: #c87e1f; float: right; font-size: 12px; font-style: italic; font-weight: normal;
+}
+#form_preferences .d3cp_form_title {
+	font-size:15px;
+}
+#form_preferences .d3cp_form_detail {
+	font-size:14px;
+}
+#form_preferences .d3cp_form_exp {
+	font-size: 11px; font-style: italic; margin-top: -6px; padding: 0;
+}
+.d3cp_preference_subscriptions {
+	display: table; font-size: 13px; line-height: 17px; padding: 6px 0 2px;
+}
+.d3cp_preference_subscriptions .box {
+	display: block; float: left; width: 25px;
+}
+.d3cp_preference_subscriptions .wds {
+	display: inline-block; padding-bottom: 2px; width: 360px;
+}
+.d3cp_survey_question {
+    background: url(//www.demandforce.com/widget/css/images/d3cp_bg_survey_blue.gif) repeat-y scroll 360px 0 transparent; display: inline-block; font-size: 14px; line-height: 20px; padding: 8px 0 8px 10px;
+}
+.d3cp_survey_question .order {
+	display: block; float: left; font-weight: bold; padding: 0 5px 0 0; text-align: right; width: 20px;
+}
+.d3cp_survey_question .question {
+	display: block; float: left; padding: 0 10px 2px 0; width: 315px;
+}
+.d3cp_survey_question .answers {
+	display: block; float: right; padding: 0 10px; text-align: right; width: 230px;
+}
+.d3cp_survey_question .answers.preview {
+    font-size: 12px; font-weight: bold; padding-left: 20px; text-align: left; width: 220px;
+}
+.d3cp_survey_question .answers.preview .explain {
+    font-weight: bold; padding-left: 22px;
+}
+.d3cp_survey_question .answers .scorewrap {
+	padding: 0;
+}
+.d3cp_survey_question .answers .score {
+	margin: 0 5px 0 0; padding: 0;
+}
+.d3cp_survey_bizcommt{
+	color: #777; font-size: 16px; font-weight: bold; line-height: 22px; margin: 20px 0 14px; padding-left: 10px;
+}
+.d3cp_confirmation .d3cp_binfo_sum {
+	font-size: 14px; line-height: 20px; margin: 0; padding: 10px 0 0 10px;
+}
+.d3cp_confirmation .d3cp_binfo_sum var {
+	font-style: normal;
+}
+.d3cp_confirmation .d3cp_bus_links_wrap {
+	border: 0 none;margin: 15px 0;padding-left: 10px;
+}
+.d3cp_confirmation .d3cp_bttns_inline {
+	padding-left: 10px; padding-top: 30px;
+}
+.d3cp_form_row.half_column {
+	display: inline-block; margin: 0 0 8px; padding: 0 0 0 10px; width: 294px; float:left;
+}
+.half_column .d3cp_form_title {
+	line-height: 16px; margin: 0; padding: 0 0 0 1px;
+}
+.half_column .d3cp_form_exp {
+	line-height: 12px; padding-bottom: 4px;
+}
+.half_column .d3cp_input_name {
+	width: 122px;
+}
+.half_column .d3cp_input_normal {
+	width: 270px;
+}
+.half_column.d3cp_form_row,.d3cp_input_outer, .d3cp_input_wrap{
+	*display:inline;
+}
+/* 
+ *  * ------
+ *   * JS Calendar CSS Style
+ *    * ------
+ *     */
+.D3cpDynarchCalendar {
+	border: 1px solid #aaa; -moz-user-select: none; -webkit-user-select: none; user-select: none; background: #F1F6FC; font: 11px "lucida grande", tahoma, verdana, sans-serif; line-height: 14px; position: relative; cursor: default;
+}
+.D3cpDynarchCalendar table {
+	border-collapse: collapse; font: 11px "lucida grande", tahoma, verdana, sans-serif; line-height: 14px; margin: auto;
+}
+.D3cpDynarchCalendar-topBar {
+	border-bottom: 1px solid #aaa; background: #ddd; padding: 5px 0 0 0;
+}
+table.D3cpDynarchCalendar-titleCont {
+	font-size: 130%; font-weight: bold; color: #444; text-align: center; z-index: 9; position: relative; margin-top: -6px;
+}
+.D3cpDynarchCalendar-title div {
+	padding: 5px 17px; text-shadow: 1px 1px 1px #777;
+}
+.D3cpDynarchCalendar-hover-title div {
+	background-color: #fff; border: 1px solid #000; padding: 4px 16px; background-image: url(//www.demandforce.com/widget/css/images/js-cal-img/drop-down.gif); background-repeat: no-repeat; background-position: 100% 50%;
+}
+.D3cpDynarchCalendar-pressed-title div {
+	border: 1px solid #000; padding: 4px 16px; background-color: #76A4DF; color: #fff; background-image: url(//www.demandforce.com/widget/css/images/js-cal-img/drop-up.gif); background-repeat: no-repeat; background-position: 100% 50%;
+}
+.D3cpDynarchCalendar-bottomBar {
+	border-top: 1px solid #aaa; background: #ddd; padding: 2px; position: relative; text-align: center;
+}
+.D3cpDynarchCalendar-bottomBar-today {
+	padding: 2px 15px;
+}
+.D3cpDynarchCalendar-hover-bottomBar-today {
+	border: 1px solid #000; background-color: #fff; padding: 1px 14px;
+}
+.D3cpDynarchCalendar-pressed-bottomBar-today {
+	border: 1px solid #000; background-color: #76A4DF; color: #fff; padding: 1px 14px;
+}
+.D3cpDynarchCalendar-body {
+	position: relative; overflow: hidden; padding-top: 5px; padding-bottom: 5px;
+}
+.D3cpDynarchCalendar-first-col {
+	padding-left: 5px;
+}
+.D3cpDynarchCalendar-last-col {
+	padding-right: 5px;
+}
+.D3cpDynarchCalendar-animBody-backYear {
+	position: absolute; top: -100%; left: 0;
+}
+.D3cpDynarchCalendar-animBody-back {
+	position: absolute; top: 5px; left: -100%;
+}
+.D3cpDynarchCalendar-animBody-fwd {
+	position: absolute; top: 5px; left: 100%;
+}
+.D3cpDynarchCalendar-animBody-now {
+	position: absolute; top: 5px; left: 0;
+}
+.D3cpDynarchCalendar-animBody-fwdYear {
+	position: absolute; top: 100%; left: 0;
+}
+.D3cpDynarchCalendar-dayNames {
+	padding-left: 5px; padding-right: 5px;
+}
+.D3cpDynarchCalendar-dayNames div {
+	font-weight: bold; color: #444; text-shadow: 1px 1px 1px #777;
+}
+.D3cpDynarchCalendar-navBtn {
+	position: absolute; top: 5px; z-index: 10;
+}
+.D3cpDynarchCalendar-navBtn div {
+	background-repeat: no-repeat; background-position: 50% 50%; height: 15px; width: 16px; padding: 1px;
+}
+.D3cpDynarchCalendar-hover-navBtn div {
+	border: 1px solid #000; padding: 0; background-color: #fff;
+}
+.D3cpDynarchCalendar-navDisabled {
+	opacity: 0.3; filter: alpha(opacity = 30);
+}
+.D3cpDynarchCalendar-pressed-navBtn div {
+	border: 1px solid #000; padding: 0; background-color: #76A4DF; color: #fff;
+}
+.D3cpDynarchCalendar-prevMonth {
+	left: 25px;
+}
+.D3cpDynarchCalendar-nextMonth {
+	left: 100%; margin-left: -43px;
+}
+.D3cpDynarchCalendar-prevYear {
+	left: 5px;
+}
+.D3cpDynarchCalendar-nextYear {
+	left: 100%; margin-left: -23px;
+}
+.D3cpDynarchCalendar-prevMonth div {
+	background-image: url(//www.demandforce.com/widget/css/images/js-cal-img/nav-left.gif);
+}
+.D3cpDynarchCalendar-nextMonth div {
+	background-image: url(//www.demandforce.com/widget/css/images/js-cal-img/nav-right.gif);
+}
+.D3cpDynarchCalendar-prevYear div {
+	background-image: url(//www.demandforce.com/widget/css/images/js-cal-img/nav-left-x2.gif);
+}
+.D3cpDynarchCalendar-nextYear div {
+	background-image: url(//www.demandforce.com/widget/css/images/js-cal-img/nav-right-x2.gif);
+}
+.D3cpDynarchCalendar-menu {
+	position: absolute; left: 0; top: 0; width: 100%; height: 100%; background-color: #CCE3F1; overflow: hidden; opacity: 0.85; filter: alpha(opacity = 85);
+}
+.D3cpDynarchCalendar-menu table td div {
+	text-align: center; font-weight: bold; padding: 3px 5px;
+}
+.D3cpDynarchCalendar-menu table td div.D3cpDynarchCalendar-menu-month {
+	width: 4em; text-align: center;
+}
+.D3cpDynarchCalendar-menu table td div.D3cpDynarchCalendar-hover-navBtn {
+	border: 1px solid #000; padding: 2px 4px; background-color: #fff; color: #000;
+}
+.D3cpDynarchCalendar-menu table td div.D3cpDynarchCalendar-pressed-navBtn {
+	border: 1px solid #000; padding: 2px 4px; background-color: #76A4DF; color: #fff !important;
+}
+.D3cpDynarchCalendar-menu-year {
+	text-align: center; font: 16px "lucida grande", tahoma, verdana, sans-serif; font-weight: bold;
+}
+.D3cpDynarchCalendar-menu-sep {
+	height: 1px; font-size: 1px; line-height: 1px; overflow: hidden; border-top: 1px solid #888; background: #fff; margin-top: 4px; margin-bottom: 3px;
+}
+.D3cpDynarchCalendar-time td {
+	font-weight: bold; font-size: 120%;
+}
+.D3cpDynarchCalendar-time-hour,.D3cpDynarchCalendar-time-minute {
+	padding: 1px 3px;
+}
+.D3cpDynarchCalendar-time-down {
+	background: url(//www.demandforce.com/widget/css/images/js-cal-img/time-down.png) no-repeat 50% 50%; width: 11px; height: 8px; opacity: 0.5;
+}
+.D3cpDynarchCalendar-time-up {
+	background: url(//www.demandforce.com/widget/css/images/js-cal-img/time-up.png) no-repeat 50% 50%; width: 11px; height: 8px; opacity: 0.5;
+}
+.D3cpDynarchCalendar-time-sep {
+	padding: 0 2px;
+}
+.D3cpDynarchCalendar-hover-time {
+	background-color: #444; color: #fff; opacity: 1;
+}
+.D3cpDynarchCalendar-pressed-time {
+	background-color: #000; color: #fff; opacity: 1;
+}
+.D3cpDynarchCalendar-time-am {
+	padding: 1px; width: 2.5em; text-align: center;
+}
+/* body */
+.D3cpDynarchCalendar-hover-week {
+	background-color: #ddd;
+}
+.D3cpDynarchCalendar-dayNames div,.D3cpDynarchCalendar-day,.D3cpDynarchCalendar-weekNumber {
+	width: 1.7em; padding: 3px 4px; text-align: center;
+}
+.D3cpDynarchCalendar-weekNumber {
+	border-right: 1px solid #aaa; margin-right: 4px; width: 2em !important; padding-right: 8px !important;
+}
+.D3cpDynarchCalendar-day {
+	text-align: right; color: #222;
+}
+.D3cpDynarchCalendar-day-othermonth {
+	color: #888;
+}
+.D3cpDynarchCalendar-weekend {
+	color: #c22;
+}
+.D3cpDynarchCalendar-day-today {
+	color: #00f; font-weight: bold;
+}
+.D3cpDynarchCalendar-day-disabled {
+	opacity: 0.5; text-shadow: 2px 1px 1px #fff;
+}
+.D3cpDynarchCalendar-hover-date {
+	padding: 2px 3px; background-color: #eef; border: 1px solid #88c; margin: 0 !important; color: #000;
+}
+.D3cpDynarchCalendar-day-othermonth.D3cpDynarchCalendar-hover-date {
+	border-color: #aaa; color: #888;
+}
+.D3cpDynarchCalendar-dayNames .D3cpDynarchCalendar-weekend {
+	color: #c22;
+}
+.D3cpDynarchCalendar-day-othermonth.D3cpDynarchCalendar-weekend {
+	color: #d88;
+}
+.D3cpDynarchCalendar-day-selected {
+	padding: 2px 3px; margin: 1px; background-color: #A8C8EF; color: #000 !important;
+}
+.D3cpDynarchCalendar-day-today.D3cpDynarchCalendar-day-selected {
+	background-color: #99d;
+}
+/* focus */
+.D3cpDynarchCalendar-focusLink {
+	position: absolute; opacity: 0; filter: alpha(opacity = 0);
+}
+.D3cpDynarchCalendar-focused {
+	border-color: #000;
+}
+.D3cpDynarchCalendar-focused .D3cpDynarchCalendar-topBar,.D3cpDynarchCalendar-focused .D3cpDynarchCalendar-bottomBar {
+	background-color: #C5D9F2; border-color: #336;
+}
+.D3cpDynarchCalendar-focused .D3cpDynarchCalendar-hover-week {
+	background-color: #A8C8EF;
+}
+.D3cpDynarchCalendar-tooltip {
+	position: absolute; top: 100%; width: 100%;
+}
+.D3cpDynarchCalendar-tooltipCont {
+	margin: 0 5px 0 5px; border: 1px solid #aaa; border-top: 0; padding: 3px 6px; background: #ddd;
+}
+.D3cpDynarchCalendar-focused .D3cpDynarchCalendar-tooltipCont {
+	background: #A8C8EF; border-color: #000;
+}
+@media print {
+	.D3cpDynarchCalendar-day-selected {
+		padding: 2px 3px; border: 1px solid #000; margin: 0 !important; }
+}
+/* ------ border-radius ------ */ 
+/* This is for Gecko-based browsers */
+.D3cpDynarchCalendar {
+	-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px;
+}
+.D3cpDynarchCalendar-title,.D3cpDynarchCalendar-title div {
+	-moz-border-radius: 0 0 4px 4px; -webkit-border-radius: 0 0 4px 4px; border-radius: 0 0 4px 4px;
+}
+.D3cpDynarchCalendar-topBar {
+	-moz-border-radius: 4px 4px 0 0; -webkit-border-radius: 4px; border-radius: 4px 4px 0 0;
+}
+.D3cpDynarchCalendar-bottomBar {
+	-moz-border-radius: 0 0 4px 4px; -webkit-border-radius: 0 0 4px 4px; border-radius: 0 0 4px 4px;
+}
+.D3cpDynarchCalendar-bottomBar-today {
+	-moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;
+}
+.D3cpDynarchCalendar-navBtn,.D3cpDynarchCalendar-navBtn div {
+	-moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;
+}
+.D3cpDynarchCalendar-menu {
+	-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px;
+}
+.D3cpDynarchCalendar-menu table td div {
+	-moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;
+}
+.D3cpDynarchCalendar-weekNumber {
+	-moz-border-radius: 4px 0 0 4px; -webkit-border-radius: 4px 0 0 4px; border-radius: 4px 0 0 4px;
+}
+.D3cpDynarchCalendar-day {
+	-moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;
+}
+.D3cpDynarchCalendar-day-disabled {
+	-moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0;
+}
+.D3cpDynarchCalendar-tooltipCont {
+	-moz-border-radius: 0 0 5px 5px; -webkit-border-radius: 5px;
+}
+.D3cpDynarchCalendar-time-hour,.D3cpDynarchCalendar-time-minute {
+	-moz-border-radius: 3px 0 0 3px; -webkit-border-radius: 3px;
+}
+.D3cpDynarchCalendar-time-am {
+	-moz-border-radius: 3px; -webkit-border-radius: 3px;
+}
+/* 
+ *  * ------
+ *   * END JS Calendar CSS Style
+ *    * ------
+ *     */ 

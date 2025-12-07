@@ -1,0 +1,774 @@
+<!doctype html>
+
+
+<html lang="en-CA" >
+<head>
+
+
+<!-- Meta Tags -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+
+
+<!--Shortcut icon-->
+	<link rel="shortcut icon" href="" />
+
+
+<title> Page not found - Downtown Dental Centre Toronto </title>
+
+<meta name='robots' content='noindex, follow' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v26.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found - Downtown Dental Centre Toronto" />
+	<meta property="og:site_name" content="Downtown Dental Centre Toronto" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.downtowndental.ca/#website","url":"https://www.downtowndental.ca/","name":"Downtown Dental Centre Toronto","description":"Family Dental Centre - Downtown Toronto","publisher":{"@id":"https://www.downtowndental.ca/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.downtowndental.ca/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-CA"},{"@type":"Organization","@id":"https://www.downtowndental.ca/#organization","name":"Downtown Dental Centre","url":"https://www.downtowndental.ca/","logo":{"@type":"ImageObject","inLanguage":"en-CA","@id":"https://www.downtowndental.ca/#/schema/logo/image/","url":"https://downtowndental.ca/wp-content/uploads/2016/04/Downtown-Dental-Centre-Logo-300.png","contentUrl":"https://downtowndental.ca/wp-content/uploads/2016/04/Downtown-Dental-Centre-Logo-300.png","width":300,"height":69,"caption":"Downtown Dental Centre"},"image":{"@id":"https://www.downtowndental.ca/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Downtown Dental Centre Toronto &raquo; Feed" href="https://www.downtowndental.ca/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Downtown Dental Centre Toronto &raquo; Comments Feed" href="https://www.downtowndental.ca/comments/feed/" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v9.10.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-FVV99RJN2P"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '9.10.0';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/www.downtowndental.ca\/wp-content\/plugins\/modula\/images\/triangle.svg\/"};
+								if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
+				} else {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsExcludeQuery : MonsterInsightsDefaultLocations;
+				}
+
+								var disableStrs = [
+										'ga-disable-G-FVV99RJN2P',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+					if ( MonsterInsightsLocations.page_location ) {
+						__gtagTracker('set', MonsterInsightsLocations);
+					}
+										__gtagTracker('config', 'G-FVV99RJN2P', {"forceSSL":"true","link_attribution":"true","page_path":'\/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer} );
+										window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+									'referrer' : 'page_referrer',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+							<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.downtowndental.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.3"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='customfonts-css' href='https://www.downtowndental.ca/wp-content/themes/dtd-child/fonts/fonts.css?ver=6.8.3' type='text/css' media='all' />
+
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.downtowndental.ca/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.downtowndental.ca/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='Modula_stylesheet-css' href='https://www.downtowndental.ca/wp-content/plugins/modula/scripts/modula.css?ver=6.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='Effects_stylesheet-css' href='https://www.downtowndental.ca/wp-content/plugins/modula/scripts/effects.css?ver=6.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome_stylesheet-css' href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css?ver=6.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://www.downtowndental.ca/wp-content/themes/dtd/css/font-awesome.min.css?ver=6.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css' href='https://www.downtowndental.ca/wp-content/themes/dtd/style.css?ver=6.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='rgs-css' href='https://www.downtowndental.ca/wp-content/themes/dtd/css/rgs.css?ver=6.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='main-styles-css' href='https://www.downtowndental.ca/wp-content/themes/dtd-child/style.css?ver=7.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-css' href='https://www.downtowndental.ca/wp-content/themes/dtd/css/magnific.css?ver=6.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='nectar-ie8-css' href='https://www.downtowndental.ca/wp-content/themes/dtd/css/ie8.css?ver=6.8.3' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='responsive-css' href='https://www.downtowndental.ca/wp-content/themes/dtd/css/responsive.css?ver=7.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='skin-ascend-css' href='https://www.downtowndental.ca/wp-content/themes/dtd/css/ascend.css?ver=7.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-css' href='https://www.downtowndental.ca/wp-content/plugins/ubermenu/pro/assets/css/ubermenu.min.css?ver=3.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-custom-stylesheet-css' href='https://www.downtowndental.ca/wp-content/plugins/ubermenu/custom/custom.css?ver=3.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='redux-google-fonts-salient_redux-css' href='https://fonts.googleapis.com/css?family=Oswald%7CArizonia%3A400%7CSuravaram%3A400&#038;subset=latin&#038;ver=1761681112' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=9.10.0" id="monsterinsights-frontend-script-js" async="async" data-wp-strategy="async"></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/www.downtowndental.ca","hash_tracking":"false","v4_id":"G-FVV99RJN2P"};/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-content/plugins/modula/scripts/jquery.modula.js?ver=6.8.3" id="Modula-js"></script>
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-content/themes/dtd/js/modernizr.js?ver=2.6.2" id="modernizer-js"></script>
+<link rel="https://api.w.org/" href="https://www.downtowndental.ca/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.downtowndental.ca/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.3" />
+<style>.post-thumbnail img[src$='.svg'] { width: 100%; height: auto; }</style><style id="ubermenu-custom-generated-css">
+/** UberMenu Responsive Styles (Breakpoint Setting) **/
+@media screen and (min-width: 1001px){
+  .ubermenu{ display:block !important; } .ubermenu-responsive .ubermenu-item.ubermenu-hide-desktop{ display:none !important; } .ubermenu-responsive.ubermenu-retractors-responsive .ubermenu-retractor-mobile{ display:none; }   /* Force current submenu always open but below others */ .ubermenu-force-current-submenu .ubermenu-item-level-0.ubermenu-current-menu-item > .ubermenu-submenu-drop, .ubermenu-force-current-submenu .ubermenu-item-level-0.ubermenu-current-menu-ancestor > .ubermenu-submenu-drop {     display: block!important;     opacity: 1!important;     visibility: visible!important;     margin: 0!important;     top: auto!important;     height: auto;     z-index:19; }   /* Invert Horizontal menu to make subs go up */ .ubermenu-invert.ubermenu-horizontal .ubermenu-item-level-0 > .ubermenu-submenu-drop{      top:auto;      bottom:100%; } .ubermenu-invert.ubermenu-horizontal.ubermenu-sub-indicators .ubermenu-item-level-0.ubermenu-has-submenu-drop > .ubermenu-target:after{      content:"\f106"; }    /* Invert Vertical menu to make subs go left */ .ubermenu-invert.ubermenu-vertical .ubermenu-item-level-0 > .ubermenu-submenu-drop{   right:100%;   left:auto; } .ubermenu-invert.ubermenu-vertical.ubermenu-sub-indicators .ubermenu-item-level-0.ubermenu-item-has-children > a.ubermenu-target:after{   right:auto;   left:10px;   margin-top:-7px;   content:"\f104"; } .ubermenu-vertical.ubermenu-invert .ubermenu-item > .ubermenu-submenu-drop {   clip: rect(-5000px,5000px,5000px,-5000px); } .ubermenu-responsive-toggle{ display:none; }
+}
+@media screen and (max-width: 1000px){
+   .ubermenu-responsive-toggle, .ubermenu-sticky-toggle-wrapper { display: block; }  .ubermenu-responsive{ width:100%; max-height:500px; visibility:visible; overflow:visible;  -webkit-transition:max-height 1s ease-in; transition:max-height .3s ease-in; } .ubermenu-responsive.ubermenu-items-align-center{     text-align:left; } .ubermenu-responsive.ubermenu{ margin:0; } .ubermenu-responsive.ubermenu .ubermenu-nav{ display:block; }  .ubermenu-responsive.ubermenu-responsive-nocollapse, .ubermenu-repsonsive.ubermenu-no-transitions{ display:block; max-height:none; }  .ubermenu-responsive.ubermenu-responsive-collapse{ max-height:none; visibility:visible; overflow:visible; } .ubermenu-responsive.ubermenu-responsive-collapse{ max-height:0; overflow:hidden !important; visibility:hidden; } .ubermenu-responsive.ubermenu-in-transition, .ubermenu-responsive.ubermenu-in-transition .ubermenu-nav{ overflow:hidden !important; visibility:visible; } .ubermenu-responsive.ubermenu-responsive-collapse:not(.ubermenu-in-transition){ border-top-width:0; border-bottom-width:0; } .ubermenu-responsive.ubermenu-responsive-collapse .ubermenu-item .ubermenu-submenu{ display:none; }  .ubermenu-responsive .ubermenu-item-level-0{ width:50%; } .ubermenu-responsive.ubermenu-responsive-single-column .ubermenu-item-level-0{ float:none; clear:both; width:100%; } .ubermenu-responsive .ubermenu-item.ubermenu-item-level-0 > .ubermenu-target{ border:none; box-shadow:none; } .ubermenu-responsive .ubermenu-item.ubermenu-has-submenu-flyout{ position:static; } .ubermenu-responsive.ubermenu-sub-indicators .ubermenu-submenu-type-flyout .ubermenu-has-submenu-drop > .ubermenu-target:after{ content:"\f107"; }  .ubermenu-responsive .ubermenu-nav .ubermenu-item .ubermenu-submenu.ubermenu-submenu-drop{ width:100%; min-width:100%; max-width:100%; top:auto; left:0 !important; } .ubermenu-responsive.ubermenu-has-border .ubermenu-nav .ubermenu-item .ubermenu-submenu.ubermenu-submenu-drop{ left: -1px !important; /* For borders */ } .ubermenu-responsive .ubermenu-submenu.ubermenu-submenu-type-mega > .ubermenu-item.ubermenu-column{ min-height:0; border-left:none;  float:left; /* override left/center/right content alignment */ display:block; } .ubermenu-responsive .ubermenu-item.ubermenu-active > .ubermenu-submenu.ubermenu-submenu-type-mega{     max-height:none;     height:auto;/*prevent overflow scrolling since android is still finicky*/     overflow:visible; } .ubermenu-responsive.ubermenu-transition-slide .ubermenu-item.ubermenu-in-transition > .ubermenu-submenu-drop{ max-height:1000px; /* because of slide transition */ } .ubermenu .ubermenu-submenu-type-flyout .ubermenu-submenu-type-mega{ min-height:0; } .ubermenu.ubermenu-responsive .ubermenu-column, .ubermenu.ubermenu-responsive .ubermenu-column-auto{ min-width:50%; } .ubermenu.ubermenu-responsive .ubermenu-autoclear > .ubermenu-column{ clear:none; } .ubermenu.ubermenu-responsive .ubermenu-column:nth-of-type(2n+1){ clear:both; } .ubermenu.ubermenu-responsive .ubermenu-submenu-retractor-top:not(.ubermenu-submenu-retractor-top-2) .ubermenu-column:nth-of-type(2n+1){ clear:none; } .ubermenu.ubermenu-responsive .ubermenu-submenu-retractor-top:not(.ubermenu-submenu-retractor-top-2) .ubermenu-column:nth-of-type(2n+2){ clear:both; }   .ubermenu.ubermenu-responsive .ubermenu-tabs, .ubermenu.ubermenu-responsive .ubermenu-tabs-group, .ubermenu.ubermenu-responsive .ubermenu-tab, .ubermenu.ubermenu-responsive .ubermenu-tab-content-panel{ /** TABS SHOULD BE 100%  ACCORDION */ width:100%; min-width:100%; max-width:100%; left:0; } .ubermenu.ubermenu-responsive .ubermenu-tabs, .ubermenu.ubermenu-responsive .ubermenu-tab-content-panel{ min-height:0 !important;/* Override Inline Style from JS */ } .ubermenu.ubermenu-responsive .ubermenu-tabs{ z-index:15; } .ubermenu.ubermenu-responsive .ubermenu-tab-content-panel{ z-index:20; } /* Tab Layering */ .ubermenu-responsive .ubermenu-tab{ position:relative; } .ubermenu-responsive .ubermenu-tab.ubermenu-active{ position:relative; z-index:20; } .ubermenu-responsive .ubermenu-tab > .ubermenu-target{ border-width:0 0 1px 0; } .ubermenu-responsive.ubermenu-sub-indicators .ubermenu-tabs > .ubermenu-tabs-group > .ubermenu-tab.ubermenu-has-submenu-drop > .ubermenu-target:after{ content:"\f107"; }  .ubermenu-responsive .ubermenu-tabs > .ubermenu-tabs-group > .ubermenu-tab > .ubermenu-tab-content-panel{ top:auto; border-width:1px; } .ubermenu-responsive .ubermenu-tab-layout-bottom > .ubermenu-tabs-group{ /*position:relative;*/ }   .ubermenu-reponsive .ubermenu-item-level-0 > .ubermenu-submenu-type-stack{ /* Top Level Stack Columns */ position:relative; }  .ubermenu-responsive .ubermenu-submenu-type-stack .ubermenu-column, .ubermenu-responsive .ubermenu-submenu-type-stack .ubermenu-column-auto{ /* Stack Columns */ width:100%; max-width:100%; }   .ubermenu-responsive .ubermenu-item-mini{ /* Mini items */ min-width:0; width:auto; float:left; clear:none !important; } .ubermenu-responsive .ubermenu-item.ubermenu-item-mini > a.ubermenu-target{ padding-left:20px; padding-right:20px; }   .ubermenu-responsive .ubermenu-item.ubermenu-hide-mobile{ /* Hiding items */ display:none !important; }  .ubermenu-responsive.ubermenu-hide-bkgs .ubermenu-submenu.ubermenu-submenu-bkg-img{ /** Hide Background Images in Submenu */ background-image:none; } .ubermenu.ubermenu-responsive .ubermenu-item-level-0.ubermenu-item-mini{ min-width:0; width:auto; } .ubermenu-vertical .ubermenu-item.ubermenu-item-level-0{ width:100%; } .ubermenu-vertical.ubermenu-sub-indicators .ubermenu-item-level-0.ubermenu-item-has-children > .ubermenu-target:after{ content:'\f107'; } .ubermenu-vertical .ubermenu-item.ubermenu-item-level-0.ubermenu-relative.ubermenu-active > .ubermenu-submenu-drop.ubermenu-submenu-align-vertical_parent_item{     top:auto; } .ubermenu-responsive-toggle{ display:block; }
+}
+@media screen and (max-width: 480px){
+  .ubermenu.ubermenu-responsive .ubermenu-item-level-0{ width:100%; } .ubermenu.ubermenu-responsive .ubermenu-column, .ubermenu.ubermenu-responsive .ubermenu-column-auto{ min-width:100%; } 
+}
+
+
+/** UberMenu Custom Menu Styles (Customizer) **/
+/* main */
+.ubermenu-main { background:#e9eaea; }
+.ubermenu-main.ubermenu-transition-fade .ubermenu-item .ubermenu-submenu-drop { margin-top:0; }
+.ubermenu-main .ubermenu-item-level-0 > .ubermenu-target { font-size:16px; text-transform:uppercase; color:#071c31; border-left:1px solid #c1c1c1; }
+.ubermenu-main .ubermenu-nav .ubermenu-item.ubermenu-item-level-0 > .ubermenu-target { font-weight:normal; }
+.ubermenu.ubermenu-main .ubermenu-item-level-0:hover > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0.ubermenu-active > .ubermenu-target { color:#c9cbc9; background:#ffffff; }
+.ubermenu-main .ubermenu-item-level-0.ubermenu-current-menu-item > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0.ubermenu-current-menu-parent > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0.ubermenu-current-menu-ancestor > .ubermenu-target { background:#ffffff; }
+.ubermenu-main .ubermenu-item-level-0.ubermenu-active > .ubermenu-target,.ubermenu-main .ubermenu-item-level-0:hover > .ubermenu-target { -webkit-box-shadow:inset 1px 0 0 0 rgba(255,255,255,1); -moz-box-shadow:inset 1px 0 0 0 rgba(255,255,255,1); -o-box-shadow:inset 1px 0 0 0 rgba(255,255,255,1); box-shadow:inset 1px 0 0 0 rgba(255,255,255,1); }
+
+
+/* Status: Loaded from Transient */
+
+</style><style type="text/css">body a{color:#66ccff;}#header-outer:not([data-lhe="animated_underline"]) header#top nav > ul > li > a:hover,#header-outer:not([data-lhe="animated_underline"]) header#top nav .sf-menu > li.sfHover > a,header#top nav > ul > li.button_bordered > a:hover,#header-outer:not([data-lhe="animated_underline"]) header#top nav .sf-menu li.current-menu-item > a,header#top nav .sf-menu li.current_page_item > a .sf-sub-indicator i,header#top nav .sf-menu li.current_page_ancestor > a .sf-sub-indicator i,#header-outer:not([data-lhe="animated_underline"]) header#top nav .sf-menu li.current_page_ancestor > a,#header-outer:not([data-lhe="animated_underline"]) header#top nav .sf-menu li.current-menu-ancestor > a,#header-outer:not([data-lhe="animated_underline"]) header#top nav .sf-menu li.current_page_item > a,body header#top nav .sf-menu li.current_page_item > a .sf-sub-indicator [class^="icon-"],header#top nav .sf-menu li.current_page_ancestor > a .sf-sub-indicator [class^="icon-"],.sf-menu li ul li.sfHover > a .sf-sub-indicator [class^="icon-"],ul.sf-menu > li > a:hover > .sf-sub-indicator i,ul.sf-menu > li > a:active > .sf-sub-indicator i,ul.sf-menu > li.sfHover > a > .sf-sub-indicator i,.sf-menu ul li.current_page_item > a,.sf-menu ul li.current-menu-ancestor > a,.sf-menu ul li.current_page_ancestor > a,.sf-menu ul a:focus,.sf-menu ul a:hover,.sf-menu ul a:active,.sf-menu ul li:hover > a,.sf-menu ul li.sfHover > a,.sf-menu li ul li a:hover,.sf-menu li ul li.sfHover > a,#footer-outer a:hover,.recent-posts .post-header a:hover,article.post .post-header a:hover,article.result a:hover,article.post .post-header h2 a,.single article.post .post-meta a:hover,.comment-list .comment-meta a:hover,label span,.wpcf7-form p span,.icon-3x[class^="icon-"],.icon-3x[class*=" icon-"],.icon-tiny[class^="icon-"],body .circle-border,article.result .title a,.home .blog-recent .col .post-header a:hover,.home .blog-recent .col .post-header h3 a,#single-below-header a:hover,header#top #logo:hover,.sf-menu > li.current_page_ancestor > a > .sf-sub-indicator [class^="icon-"],.sf-menu > li.current-menu-ancestor > a > .sf-sub-indicator [class^="icon-"],body #mobile-menu li.open > a [class^="icon-"],.pricing-column h3,.pricing-table[data-style="flat-alternative"] .pricing-column.accent-color h4,.pricing-table[data-style="flat-alternative"] .pricing-column.accent-color .interval,.comment-author a:hover,.project-attrs li i,#footer-outer #copyright li a i:hover,.col:hover > [class^="icon-"].icon-3x.accent-color.alt-style.hovered,.col:hover > [class*=" icon-"].icon-3x.accent-color.alt-style.hovered,#header-outer .widget_shopping_cart .cart_list a,.woocommerce .star-rating,.woocommerce-page table.cart a.remove,.woocommerce form .form-row .required,.woocommerce-page form .form-row .required,body #header-secondary-outer #social a:hover i,.woocommerce ul.products li.product .price,body .twitter-share:hover i,.twitter-share.hovered i,body .linkedin-share:hover i,.linkedin-share.hovered i,body .google-plus-share:hover i,.google-plus-share.hovered i,.pinterest-share:hover i,.pinterest-share.hovered i,.facebook-share:hover i,.facebook-share.hovered i,.woocommerce-page ul.products li.product .price,.nectar-milestone .number.accent-color,header#top nav > ul > li.megamenu > ul > li > a:hover,header#top nav > ul > li.megamenu > ul > li.sfHover > a,body #portfolio-nav a:hover i,span.accent-color,.nectar-love:hover i,.nectar-love.loved i,.portfolio-items .nectar-love:hover i,.portfolio-items .nectar-love.loved i,body .hovered .nectar-love i,header#top nav ul #search-btn a:hover span,header#top nav ul .slide-out-widget-area-toggle a:hover span,#search-outer #search #close a span:hover,.carousel-wrap[data-full-width="true"] .carousel-heading a:hover i,#search-outer .ui-widget-content li:hover a .title,#search-outer .ui-widget-content .ui-state-hover .title,#search-outer .ui-widget-content .ui-state-focus .title,.portfolio-filters-inline .container ul li a.active,body [class^="icon-"].icon-default-style,.svg-icon-holder[data-color="accent-color"],.team-member a.accent-color:hover,.ascend .comment-list .reply a,.wpcf7-form .wpcf7-not-valid-tip,.text_on_hover.product .add_to_cart_button,.blog-recent[data-style="minimal"] .col > span,.blog-recent[data-style="title_only"] .col:hover .post-header .title,.woocommerce-checkout-review-order-table .product-info .amount,.tabbed[data-style="minimal"] > ul li a.active-tab,.masonry.classic_enhanced article.post .post-meta a:hover i,.masonry.classic_enhanced article.post .post-meta .icon-salient-heart-2.loved,.single #single-meta ul li:not(.meta-share-count):hover i,.single #single-meta ul li:not(.meta-share-count):hover a,.single #single-meta ul li:not(.meta-share-count):hover span,.single #single-meta ul li.meta-share-count .nectar-social a:hover i,#project-meta #single-meta ul li > a,#project-meta ul li.meta-share-count .nectar-social a:hover i,#project-meta ul li:not(.meta-share-count):hover i,#project-meta ul li:not(.meta-share-count):hover span{color:#66ccff!important;}.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.accent-color.alt-style.hovered,body .col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.accent-color.alt-style.hovered,.ascend #header-outer:not(.transparent) .cart-outer:hover .cart-menu-wrap:not(.has_products) .icon-salient-cart{color:#66ccff!important;}.orbit-wrapper div.slider-nav span.right,.orbit-wrapper div.slider-nav span.left,.flex-direction-nav a,.jp-play-bar,.jp-volume-bar-value,.jcarousel-prev:hover,.jcarousel-next:hover,.portfolio-items .col[data-default-color="true"] .work-item:not(.style-3) .work-info-bg,.portfolio-items .col[data-default-color="true"] .bottom-meta,.portfolio-filters a,.portfolio-filters #sort-portfolio,.project-attrs li span,.progress li span,.nectar-progress-bar span,#footer-outer #footer-widgets .col .tagcloud a:hover,#sidebar .widget .tagcloud a:hover,article.post .more-link span:hover,article.post.quote .post-content .quote-inner,article.post.link .post-content .link-inner,#pagination .next a:hover,#pagination .prev a:hover,.comment-list .reply a:hover,input[type=submit]:hover,input[type="button"]:hover,#footer-outer #copyright li a.vimeo:hover,#footer-outer #copyright li a.behance:hover,.toggle.open h3 a,.tabbed > ul li a.active-tab,[class*=" icon-"],.icon-normal,.bar_graph li span,.nectar-button[data-color-override="false"].regular-button,.nectar-button.tilt.accent-color,body .swiper-slide .button.transparent_2 a.primary-color:hover,#footer-outer #footer-widgets .col input[type="submit"],.carousel-prev:hover,.carousel-next:hover,.blog-recent .more-link span:hover,.post-tags a:hover,.pricing-column.highlight h3,.pricing-table[data-style="flat-alternative"] .pricing-column.highlight h3 .highlight-reason,.pricing-table[data-style="flat-alternative"] .pricing-column.accent-color:before,#to-top:hover,#to-top.dark:hover,body[data-button-style="rounded"] #to-top:after,#pagination a.page-numbers:hover,#pagination span.page-numbers.current,.single-portfolio .facebook-share a:hover,.single-portfolio .twitter-share a:hover,.single-portfolio .pinterest-share a:hover,.single-post .facebook-share a:hover,.single-post .twitter-share a:hover,.single-post .pinterest-share a:hover,.mejs-controls .mejs-time-rail .mejs-time-current,.mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-current,.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,article.post.quote .post-content .quote-inner,article.post.link .post-content .link-inner,article.format-status .post-content .status-inner,article.post.format-aside .aside-inner,body #header-secondary-outer #social li a.behance:hover,body #header-secondary-outer #social li a.vimeo:hover,#sidebar .widget:hover [class^="icon-"].icon-3x,.woocommerce-page div[data-project-style="text_on_hover"] .single_add_to_cart_button,article.post.quote .content-inner .quote-inner .whole-link,.masonry.classic_enhanced article.post.quote.wide_tall .post-content a:hover .quote-inner,.masonry.classic_enhanced article.post.link.wide_tall .post-content a:hover .link-inner,.iosSlider .prev_slide:hover,.iosSlider .next_slide:hover,body [class^="icon-"].icon-3x.alt-style.accent-color,body [class*=" icon-"].icon-3x.alt-style.accent-color,#slide-out-widget-area,#slide-out-widget-area-bg.fullscreen,#header-outer .widget_shopping_cart a.button,body[data-button-style="rounded"] .wpb_wrapper .twitter-share:before,body[data-button-style="rounded"] .wpb_wrapper .twitter-share.hovered:before,body[data-button-style="rounded"] .wpb_wrapper .facebook-share:before,body[data-button-style="rounded"] .wpb_wrapper .facebook-share.hovered:before,body[data-button-style="rounded"] .wpb_wrapper .google-plus-share:before,body[data-button-style="rounded"] .wpb_wrapper .google-plus-share.hovered:before,body[data-button-style="rounded"] .wpb_wrapper .nectar-social:hover > *:before,body[data-button-style="rounded"] .wpb_wrapper .pinterest-share:before,body[data-button-style="rounded"] .wpb_wrapper .pinterest-share.hovered:before,body[data-button-style="rounded"] .wpb_wrapper .linkedin-share:before,body[data-button-style="rounded"] .wpb_wrapper .linkedin-share.hovered:before,#header-outer a.cart-contents .cart-wrap span,.swiper-slide .button.solid_color a,.swiper-slide .button.solid_color_2 a,.portfolio-filters,button[type=submit]:hover,#buddypress button:hover,#buddypress a.button:hover,#buddypress ul.button-nav li.current a,header#top nav ul .slide-out-widget-area-toggle a:hover i.lines,header#top nav ul .slide-out-widget-area-toggle a:hover i.lines:after,header#top nav ul .slide-out-widget-area-toggle a:hover i.lines:before,#buddypress a.button:focus,.text_on_hover.product a.added_to_cart,.woocommerce div.product .woocommerce-tabs .full-width-content ul.tabs li a:after,.woocommerce div[data-project-style="text_on_hover"] .cart .quantity input.minus,.woocommerce div[data-project-style="text_on_hover"] .cart .quantity input.plus,.woocommerce .span_4 input[type="submit"].checkout-button,.portfolio-filters-inline[data-color-scheme="accent-color"],body[data-fancy-form-rcs="1"] [type="radio"]:checked + label:after,.select2-container .select2-choice:hover,.select2-dropdown-open .select2-choice,header#top nav > ul > li.button_solid_color > a:before,#header-outer.transparent header#top nav > ul > li.button_solid_color > a:before,.tabbed[data-style="minimal"] > ul li a:after,.twentytwenty-handle,.twentytwenty-horizontal .twentytwenty-handle:before,.twentytwenty-horizontal .twentytwenty-handle:after,.twentytwenty-vertical .twentytwenty-handle:before,.twentytwenty-vertical .twentytwenty-handle:after,.masonry.classic_enhanced .posts-container article .meta-category a:hover,.masonry.classic_enhanced .posts-container article .video-play-button,.bottom_controls #portfolio-nav .controls li a i:after,.bottom_controls #portfolio-nav ul:first-child li#all-items a:hover i,.nectar_video_lightbox.nectar-button[data-color="default-accent-color"],.nectar_video_lightbox.nectar-button[data-color="transparent-accent-color"]:hover,.testimonial_slider[data-style="multiple_visible"][data-color*="accent-color"] .flickity-page-dots .dot.is-selected:before,.testimonial_slider[data-style="multiple_visible"][data-color*="accent-color"] blockquote.is-selected p,.nectar-recent-posts-slider .container .strong span:before,#page-header-bg[data-post-hs="default_minimal"] .inner-wrap > a:hover,.single .heading-title[data-header-style="default_minimal"] .meta-category a:hover,body.single-post .sharing-default-minimal .nectar-love.loved,.nectar-fancy-box:after{background-color:#66ccff!important;}.col:hover > [class^="icon-"].icon-3x:not(.alt-style).accent-color.hovered,.col:hover > [class*=" icon-"].icon-3x:not(.alt-style).accent-color.hovered,body .nectar-button.see-through-2[data-hover-color-override="false"]:hover,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x:not(.alt-style).accent-color.hovered,.col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x:not(.alt-style).accent-color.hovered{background-color:#66ccff!important;}.bottom_controls #portfolio-nav ul:first-child li#all-items a:hover i{box-shadow:-.6em 0 #66ccff,-.6em .6em #66ccff,.6em 0 #66ccff,.6em -.6em #66ccff,0 -.6em #66ccff,-.6em -.6em #66ccff,0 .6em #66ccff,.6em .6em #66ccff;}.tabbed > ul li a.active-tab,body[data-form-style="minimal"] label:after,body .recent_projects_widget a:hover img,.recent_projects_widget a:hover img,#sidebar #flickr a:hover img,body .nectar-button.see-through-2[data-hover-color-override="false"]:hover,#footer-outer #flickr a:hover img,body[data-button-style="rounded"] .wpb_wrapper .twitter-share:before,body[data-button-style="rounded"] .wpb_wrapper .twitter-share.hovered:before,body[data-button-style="rounded"] .wpb_wrapper .facebook-share:before,body[data-button-style="rounded"] .wpb_wrapper .facebook-share.hovered:before,body[data-button-style="rounded"] .wpb_wrapper .google-plus-share:before,body[data-button-style="rounded"] .wpb_wrapper .google-plus-share.hovered:before,body[data-button-style="rounded"] .wpb_wrapper .nectar-social:hover > *:before,body[data-button-style="rounded"] .wpb_wrapper .pinterest-share:before,body[data-button-style="rounded"] .wpb_wrapper .pinterest-share.hovered:before,body[data-button-style="rounded"] .wpb_wrapper .linkedin-share:before,body[data-button-style="rounded"] .wpb_wrapper .linkedin-share.hovered:before,#featured article .post-title a:hover,#header-outer[data-lhe="animated_underline"] header#top nav > ul > li > a:after,body #featured article .post-title a:hover,div.wpcf7-validation-errors,body[data-fancy-form-rcs="1"] [type="radio"]:checked + label:before,body[data-fancy-form-rcs="1"] [type="radio"]:checked + label:after,body[data-fancy-form-rcs="1"] input[type="checkbox"]:checked + label > span,.select2-container .select2-choice:hover,.select2-dropdown-open .select2-choice,#header-outer:not(.transparent) header#top nav > ul > li.button_bordered > a:hover:before,.single #single-meta ul li:not(.meta-share-count):hover a,.single #project-meta ul li:not(.meta-share-count):hover a{border-color:#66ccff!important;}.default-loading-icon:before{border-top-color:#66ccff!important;}#header-outer a.cart-contents span:before{border-color:transparent #66ccff!important;}body .col:not(#post-area):not(.span_12):not(#sidebar):hover .hovered .circle-border,body #sidebar .widget:hover .circle-border,body .testimonial_slider[data-style="multiple_visible"][data-color*="accent-color"] blockquote .bottom-arrow:after,body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accent-color"] blockquote .bottom-arrow:after,.portfolio-items[data-ps="6"] .bg-overlay,.portfolio-items[data-ps="6"].no-masonry .bg-overlay{border-color:#66ccff;}.gallery a:hover img{border-color:#66ccff!important;}@media only screen and (min-width :1px) and (max-width :1000px){body #featured article .post-title > a{background-color:#66ccff;}body #featured article .post-title > a{border-color:#66ccff;}}.nectar-button.regular-button.extra-color-1,.nectar-button.tilt.extra-color-1{background-color:#e2e0cb!important;}.icon-3x[class^="icon-"].extra-color-1:not(.alt-style),.icon-tiny[class^="icon-"].extra-color-1,.icon-3x[class*=" icon-"].extra-color-1:not(.alt-style),body .icon-3x[class*=" icon-"].extra-color-1:not(.alt-style) .circle-border,.woocommerce-page table.cart a.remove,#header-outer .widget_shopping_cart .cart_list li a.remove,#header-outer .woocommerce.widget_shopping_cart .cart_list li a.remove,.nectar-milestone .number.extra-color-1,span.extra-color-1,.team-member ul.social.extra-color-1 li a,.stock.out-of-stock,body [class^="icon-"].icon-default-style.extra-color-1,.team-member a.extra-color-1:hover,.pricing-table[data-style="flat-alternative"] .pricing-column.highlight.extra-color-1 h3,.pricing-table[data-style="flat-alternative"] .pricing-column.extra-color-1 h4,.pricing-table[data-style="flat-alternative"] .pricing-column.extra-color-1 .interval,.svg-icon-holder[data-color="extra-color-1"]{color:#e2e0cb!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-1:not(.alt-style),.col:hover > [class*=" icon-"].icon-3x.extra-color-1:not(.alt-style).hovered,body .swiper-slide .button.transparent_2 a.extra-color-1:hover,body .col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-1:not(.alt-style).hovered,body .col:not(#post-area):not(#sidebar):not(.span_12):hover a [class*=" icon-"].icon-3x.extra-color-1:not(.alt-style).hovered,#sidebar .widget:hover [class^="icon-"].icon-3x.extra-color-1:not(.alt-style),.portfolio-filters-inline[data-color-scheme="extra-color-1"],.pricing-table[data-style="flat-alternative"] .pricing-column.extra-color-1:before,.pricing-table[data-style="flat-alternative"] .pricing-column.highlight.extra-color-1 h3 .highlight-reason,.nectar-button.nectar_video_lightbox[data-color="default-extra-color-1"],.nectar_video_lightbox.nectar-button[data-color="transparent-extra-color-1"]:hover,.testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-1"] .flickity-page-dots .dot.is-selected:before,.testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-1"] blockquote.is-selected p,.nectar-fancy-box[data-color="extra-color-1"]:after{background-color:#e2e0cb!important;}body [class^="icon-"].icon-3x.alt-style.extra-color-1,body [class*=" icon-"].icon-3x.alt-style.extra-color-1,[class*=" icon-"].extra-color-1.icon-normal,.extra-color-1.icon-normal,.bar_graph li span.extra-color-1,.nectar-progress-bar span.extra-color-1,#header-outer .widget_shopping_cart a.button,.woocommerce ul.products li.product .onsale,.woocommerce-page ul.products li.product .onsale,.woocommerce span.onsale,.woocommerce-page span.onsale,.woocommerce-page table.cart a.remove:hover,.swiper-slide .button.solid_color a.extra-color-1,.swiper-slide .button.solid_color_2 a.extra-color-1,.toggle.open.extra-color-1 h3 a{background-color:#e2e0cb!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-1.alt-style.hovered,.col:hover > [class*=" icon-"].icon-3x.extra-color-1.alt-style.hovered,.no-highlight.extra-color-1 h3,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-1.alt-style.hovered,body .col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-1.alt-style.hovered{color:#e2e0cb!important;}body .col:not(#post-area):not(.span_12):not(#sidebar):hover .extra-color-1.hovered .circle-border,.woocommerce-page table.cart a.remove,#header-outer .woocommerce.widget_shopping_cart .cart_list li a.remove,#header-outer .woocommerce.widget_shopping_cart .cart_list li a.remove,body #sidebar .widget:hover .extra-color-1 .circle-border,.woocommerce-page table.cart a.remove,body .testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-1"] blockquote .bottom-arrow:after,body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-1"] blockquote .bottom-arrow:after{border-color:#e2e0cb;}.pricing-column.highlight.extra-color-1 h3{background-color:#e2e0cb!important;}.nectar-button.regular-button.extra-color-2,.nectar-button.tilt.extra-color-2{background-color:#fcfcfc!important;}.icon-3x[class^="icon-"].extra-color-2:not(.alt-style),.icon-3x[class*=" icon-"].extra-color-2:not(.alt-style),.icon-tiny[class^="icon-"].extra-color-2,body .icon-3x[class*=" icon-"].extra-color-2 .circle-border,.nectar-milestone .number.extra-color-2,span.extra-color-2,.team-member ul.social.extra-color-2 li a,body [class^="icon-"].icon-default-style.extra-color-2,.team-member a.extra-color-2:hover,.pricing-table[data-style="flat-alternative"] .pricing-column.highlight.extra-color-2 h3,.pricing-table[data-style="flat-alternative"] .pricing-column.extra-color-2 h4,.pricing-table[data-style="flat-alternative"] .pricing-column.extra-color-2 .interval,.svg-icon-holder[data-color="extra-color-2"]{color:#fcfcfc!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-2:not(.alt-style).hovered,.col:hover > [class*=" icon-"].icon-3x.extra-color-2:not(.alt-style).hovered,body .swiper-slide .button.transparent_2 a.extra-color-2:hover,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-2:not(.alt-style).hovered,.col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-2:not(.alt-style).hovered,#sidebar .widget:hover [class^="icon-"].icon-3x.extra-color-2:not(.alt-style),.pricing-table[data-style="flat-alternative"] .pricing-column.highlight.extra-color-2 h3 .highlight-reason,.nectar-button.nectar_video_lightbox[data-color="default-extra-color-2"],.nectar_video_lightbox.nectar-button[data-color="transparent-extra-color-2"]:hover,.testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-2"] .flickity-page-dots .dot.is-selected:before,.testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-2"] blockquote.is-selected p,.nectar-fancy-box[data-color="extra-color-2"]:after{background-color:#fcfcfc!important;}body [class^="icon-"].icon-3x.alt-style.extra-color-2,body [class*=" icon-"].icon-3x.alt-style.extra-color-2,[class*=" icon-"].extra-color-2.icon-normal,.extra-color-2.icon-normal,.bar_graph li span.extra-color-2,.nectar-progress-bar span.extra-color-2,.woocommerce .product-wrap .add_to_cart_button.added,.woocommerce-message,.woocommerce-error,.woocommerce-info,.woocommerce .widget_price_filter .ui-slider .ui-slider-range,.woocommerce-page .widget_price_filter .ui-slider .ui-slider-range,.swiper-slide .button.solid_color a.extra-color-2,.swiper-slide .button.solid_color_2 a.extra-color-2,.toggle.open.extra-color-2 h3 a,.portfolio-filters-inline[data-color-scheme="extra-color-2"],.pricing-table[data-style="flat-alternative"] .pricing-column.extra-color-2:before{background-color:#fcfcfc!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-2.alt-style.hovered,.col:hover > [class*=" icon-"].icon-3x.extra-color-2.alt-style.hovered,.no-highlight.extra-color-2 h3,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-2.alt-style.hovered,body .col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-2.alt-style.hovered{color:#fcfcfc!important;}body .col:not(#post-area):not(.span_12):not(#sidebar):hover .extra-color-2.hovered .circle-border,body #sidebar .widget:hover .extra-color-2 .circle-border,body .testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-2"] blockquote .bottom-arrow:after,body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-2"] blockquote .bottom-arrow:after{border-color:#fcfcfc;}.pricing-column.highlight.extra-color-2 h3{background-color:#fcfcfc!important;}.nectar-button.regular-button.extra-color-3,.nectar-button.tilt.extra-color-3{background-color:#003366!important;}.icon-3x[class^="icon-"].extra-color-3:not(.alt-style),.icon-3x[class*=" icon-"].extra-color-3:not(.alt-style),.icon-tiny[class^="icon-"].extra-color-3,body .icon-3x[class*=" icon-"].extra-color-3 .circle-border,.nectar-milestone .number.extra-color-3,span.extra-color-3,.team-member ul.social.extra-color-3 li a,body [class^="icon-"].icon-default-style.extra-color-3,.team-member a.extra-color-3:hover,.pricing-table[data-style="flat-alternative"] .pricing-column.highlight.extra-color-3 h3,.pricing-table[data-style="flat-alternative"] .pricing-column.extra-color-3 h4,.pricing-table[data-style="flat-alternative"] .pricing-column.extra-color-3 .interval,.svg-icon-holder[data-color="extra-color-3"]{color:#003366!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-3:not(.alt-style).hovered,.col:hover > [class*=" icon-"].icon-3x.extra-color-3:not(.alt-style).hovered,body .swiper-slide .button.transparent_2 a.extra-color-3:hover,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-3:not(.alt-style).hovered,.col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-3:not(.alt-style).hovered,#sidebar .widget:hover [class^="icon-"].icon-3x.extra-color-3:not(.alt-style),.portfolio-filters-inline[data-color-scheme="extra-color-3"],.pricing-table[data-style="flat-alternative"] .pricing-column.extra-color-3:before,.pricing-table[data-style="flat-alternative"] .pricing-column.highlight.extra-color-3 h3 .highlight-reason,.nectar-button.nectar_video_lightbox[data-color="default-extra-color-3"],.nectar_video_lightbox.nectar-button[data-color="transparent-extra-color-3"]:hover,.testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-3"] .flickity-page-dots .dot.is-selected:before,.testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-3"] blockquote.is-selected p,.nectar-fancy-box[data-color="extra-color-3"]:after{background-color:#003366!important;}body [class^="icon-"].icon-3x.alt-style.extra-color-3,body [class*=" icon-"].icon-3x.alt-style.extra-color-3,.extra-color-3.icon-normal,[class*=" icon-"].extra-color-3.icon-normal,.bar_graph li span.extra-color-3,.nectar-progress-bar span.extra-color-3,.swiper-slide .button.solid_color a.extra-color-3,.swiper-slide .button.solid_color_2 a.extra-color-3,.toggle.open.extra-color-3 h3 a{background-color:#003366!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-3.alt-style.hovered,.col:hover > [class*=" icon-"].icon-3x.extra-color-3.alt-style.hovered,.no-highlight.extra-color-3 h3,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-3.alt-style.hovered,body .col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-3.alt-style.hovered{color:#003366!important;}body .col:not(#post-area):not(.span_12):not(#sidebar):hover .extra-color-3.hovered .circle-border,body #sidebar .widget:hover .extra-color-3 .circle-border,body .testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-3"] blockquote .bottom-arrow:after,body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-3"] blockquote .bottom-arrow:after{border-color:#003366;}.pricing-column.highlight.extra-color-3 h3{background-color:#003366!important;}html .container-wrap,.project-title,html .ascend .container-wrap,html .ascend .project-title,html body .vc_text_separator div,html .carousel-wrap[data-full-width="true"] .carousel-heading,html .carousel-wrap span.left-border,html .carousel-wrap span.right-border,html #page-header-wrap,html .page-header-no-bg,html #full_width_portfolio .project-title.parallax-effect,html .portfolio-items .col,html .page-template-template-portfolio-php .portfolio-items .col.span_3,html .page-template-template-portfolio-php .portfolio-items .col.span_4{background-color:#031221;}html body,body h1,body h2,body h3,body h4,body h5,body h6{color:#002142;}#project-meta .nectar-love{color:#002142!important;}.full-width-section > .col.span_12.dark,.full-width-content > .col.span_12.dark{color:#676767;}.full-width-section > .col.span_12.dark h1,.full-width-content > .col.span_12.dark h1,.full-width-section > .col.span_12.dark h2,.full-width-content > .col.span_12.dark h2,.full-width-section > .col.span_12.dark h3,.full-width-content > .col.span_12.dark h3,.full-width-section > .col.span_12.dark h4,.full-width-content > .col.span_12.dark h4,.full-width-section > .col.span_12.dark h5,.full-width-content > .col.span_12.dark h5,.full-width-section > .col.span_12.dark h6,.full-width-content > .col.span_12.dark h6{color:#444;}#footer-outer{background-color:#020b15!important;}#footer-outer #footer-widgets{border-bottom:none!important;}#footer-outer #footer-widgets .col ul li{border-bottom:1px solid rgba(0,0,0,0.1)!important;}#footer-outer #footer-widgets .col .widget_recent_comments ul li{background-color:rgba(0,0,0,0.07)!important;border-bottom:0!important;}#footer-outer,#footer-outer a{color:#CCCCCC!important;}#footer-outer .widget h4,#footer-outer .col .widget_recent_entries span,#footer-outer .col .recent_posts_extra_widget .post-widget-text span{color:#777777!important;}#footer-outer #copyright,body{border:none!important;background-color:#000000!important;}#footer-outer #copyright li a i,#footer-outer #copyright p{color:#777777!important;}#footer-outer #copyright{border-top:1px solid rgba(255,255,255,0.18)!important;}#call-to-action{background-color:#ECEBE9!important;}#call-to-action span{color:#4B4F52!important;}body #slide-out-widget-area-bg{background-color:rgba(0,0,0,0.8);}</style><style type="text/css"> #header-outer{padding-top:28px;}#header-outer #logo img{height:100px;}header#top nav > ul > li > a{padding-bottom:68px;padding-top:40px;}#header-outer .cart-menu{padding-bottom:125px;padding-top:125px;}header#top nav > ul li#search-btn,header#top nav > ul li.slide-out-widget-area-toggle{padding-bottom:39px;padding-top:40px;}header#top .sf-menu > li.sfHover > ul{top:20px;}.sf-sub-indicator{height:20px;}#header-space{height:190px;}body[data-smooth-scrolling="1"] #full_width_portfolio .project-title.parallax-effect{top:190px;}body.single-product div.product .product_title{padding-right:0;}@media only screen and (min-width:1000px){body:not(.ascend)[data-slide-out-widget-area="true"] #header-outer[data-has-menu="false"][data-permanent-transparent="false"] header#top,body.ascend[data-slide-out-widget-area="true"] #header-outer[data-has-menu="false"][data-permanent-transparent="false"][data-full-width="false"] header#top{padding-bottom:28px;}}@media only screen and (max-width:1000px){body header#top #logo img,#header-outer[data-permanent-transparent="false"] #logo .dark-version{height:35px!important;}header#top .col.span_9{min-height:59px;line-height:39px;}}body #header-outer,body[data-header-color="dark"] #header-outer{background-color:rgba(255,255,255,100);}.nectar-slider-loading .loading-icon,.portfolio-loading,#ajax-loading-screen .loading-icon,.loading-icon,.pp_loaderIcon{background-image:url("");}@media only screen and (min-width:1000px) and (max-width:1300px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,.full-width-content .vc_span12 .swiper-slide .content h2{font-size:45px!important;line-height:51px!important;}.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:18px!important;line-height:31.2px!important;}}@media only screen and (min-width :690px) and (max-width :1000px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,.full-width-content .vc_span12 .swiper-slide .content h2{font-size:33px!important;line-height:39px!important;}.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:13.2px!important;line-height:24px!important;}}@media only screen and (max-width :690px){.nectar-slider-wrap[data-full-width="true"][data-fullscreen="false"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"][data-fullscreen="false"] .swiper-slide .content h2,.full-width-content .vc_span12 .nectar-slider-wrap[data-fullscreen="false"] .swiper-slide .content h2{font-size:15px!important;line-height:21px!important;}.nectar-slider-wrap[data-full-width="true"][data-fullscreen="false"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"][data-fullscreen="false"] .swiper-slide .content p,.full-width-content .vc_span12 .nectar-slider-wrap[data-fullscreen="false"] .swiper-slide .content p{font-size:10px!important;line-height:17.52px!important;}}#mobile-menu #mobile-search,header#top nav ul #search-btn{display:none!important;}@media only screen and (min-width:1000px){.container,.woocommerce-tabs .full-width-content .tab-container,.nectar-recent-posts-slider .flickity-page-dots{max-width:1425px;width:100%;margin:0 auto;padding:0 90px;}body .container .page-submenu.stuck .container:not(.tab-container),.nectar-recent-posts-slider .flickity-page-dots{padding:0 90px!important;}.swiper-slide .content{padding:0 90px;}body .container .container:not(.tab-container):not(.recent-post-container){width:100%!important;padding:0!important;}body .carousel-heading .container{padding:0 10px!important;}body .carousel-heading .container .carousel-next{right:10px;}body .carousel-heading .container .carousel-prev{right:35px;}.carousel-wrap[data-full-width="true"] .carousel-heading a.portfolio-page-link{left:90px;}.carousel-wrap[data-full-width="true"] .carousel-heading{margin-left:-20px;margin-right:-20px;}.carousel-wrap[data-full-width="true"] .carousel-next{right:90px!important;}.carousel-wrap[data-full-width="true"] .carousel-prev{right:115px!important;}.carousel-wrap[data-full-width="true"]{padding:0!important;}.carousel-wrap[data-full-width="true"] .caroufredsel_wrapper{padding:20px!important;}#search-outer #search #close a{right:90px;}#boxed,#boxed #header-outer,#boxed #header-secondary-outer,#boxed #slide-out-widget-area-bg.fullscreen,#boxed #page-header-bg[data-parallax="1"],#boxed #featured,body[data-footer-reveal="1"] #boxed #footer-outer,#boxed .orbit > div,#boxed #featured article,.ascend #boxed #search-outer{max-width:1400px!important;width:90%!important;min-width:980px;}body[data-hhun="1"] #boxed #header-outer:not(.detached),body[data-hhun="1"] #boxed #header-secondary-outer{width:100%!important;}#boxed #search-outer #search #close a{right:0!important;}#boxed .container{width:92%;padding:0;}#boxed #footer-outer #footer-widgets,#boxed #footer-outer #copyright{padding-left:0;padding-right:0;}#boxed .carousel-wrap[data-full-width="true"] .carousel-heading a.portfolio-page-link{left:35px;}#boxed .carousel-wrap[data-full-width="true"] .carousel-next{right:35px!important;}#boxed .carousel-wrap[data-full-width="true"] .carousel-prev{right:60px!important;}}.pagination-navigation{-webkit-filter:url("#goo");filter:url("#goo");}@media only screen and (min-width:1162px){html body header#top nav > ul > li > a{font-size:18px!important;line-height:18px!important;letter-spacing:1px!important;}}@media only screen and (min-width:1100px){html body.page-id-5 #page-header-bg[data-alignment-v="bottom"] .span_6,html body.page-id-5 #page-header-bg[data-parallax="1"][data-alignment-v="bottom"] .span_6{bottom:35%!important;}html body.page-id-463 #page-header-bg[data-alignment-v="bottom"] .span_6,html body.page-id-463 #page-header-bg[data-parallax="1"][data-alignment-v="bottom"] .span_6{bottom:16%!important;}}@media only screen and (min-width:1100px){html body.page-id-786 #page-header-bg[data-alignment-v="bottom"] .span_6,html body.page-id-786 #page-header-bg[data-parallax="1"][data-alignment-v="bottom"] .span_6{bottom:29%!important;}}html body #docit-primary ul.docit-sub-menu li.di-active{padding:5px 10px;background:#fff!important;}#docit-primary ul.docit-menu li a{font-size:17px;}#docit-primary .docit-menu-wrap{background:#111d2b;}#docit-primary li.docit-sub-header a.docit-sub-cat-title{font-size:18px;font-weight:700;color:#fff;}#docit-primary .docit-menu-wrap .docit-sub-header.di-active a{color:#002142;}@media only screen and (max-width:600px){div#header-top-review{text-align:center !important;}}</style><style type="text/css"> body,.toggle h3 a,body .ui-widget,table,.bar_graph li span strong,#slide-out-widget-area .tagcloud a,#search-results .result .title span,.woocommerce ul.products li.product h3,.woocommerce-page ul.products li.product h3,.row .col.section-title .nectar-love span,body .nectar-love span,body .nectar-social .nectar-love .nectar-love-count,body .carousel-heading h2,.sharing-default-minimal .nectar-social .social-text,body .sharing-default-minimal .nectar-love{font-size:21px;line-height:22px;font-weight:400;}.nectar-fancy-ul ul li .icon-default-style[class^="icon-"]{line-height:22px!important;}header#top nav > ul > li > a{text-transform:uppercase;letter-spacing:1px;font-size:16px;line-height:22.4px;font-weight:400;}#header-outer[data-lhe="animated_underline"] header#top nav > ul > li > a,header#top nav > ul > li.button_solid_color > a,body #header-outer.transparent header#top nav > ul > li.button_solid_color > a,#header-outer[data-lhe="animated_underline"] header#top nav > ul > li.button_solid_color > a{margin-left:13px!important;margin-right:13px!important;}#header-outer[data-lhe="default"] header#top nav > ul > li > a{padding-left:13px;padding-right:13px;}header#top nav > ul > li.button_solid_color > a,body #header-outer.transparent header#top nav > ul > li.button_solid_color > a,#header-outer[data-lhe="animated_underline"] header#top nav > ul > li.button_solid_color > a{padding-left:23px!important;padding-right:23px!important;}header#top nav > ul > li.button_solid_color > a:before,#header-outer.transparent header#top nav > ul > li.button_solid_color > a:before{height:27.4px;}header#top nav > ul > li.button_bordered > a:before,#header-outer.transparent header#top nav > ul > li.button_bordered > a:before{height:37.4px;}header#top .sf-menu li ul li a,#header-secondary-outer nav > ul > li > a,#header-secondary-outer ul ul li a,#header-outer .widget_shopping_cart .cart_list a{text-transform:capitalize;font-size:19px;line-height:20px;font-weight:400;}@media only screen and (min-width :1px) and (max-width :1000px){header#top .sf-menu a{font-family:-!important;font-size:14px!important;}}#page-header-bg h1,body h1,body .row .col.section-title h1,.full-width-content .recent-post-container .inner-wrap h2{font-weight:400;}@media only screen and (max-width:1300px) and (min-width:1000px){body .row .col.section-title h1,body h1,.full-width-content .recent-post-container .inner-wrap h2{font-size:;line-height:;}}@media only screen and (max-width:1000px) and (min-width:690px){body .row .col.section-title h1,body h1{font-size:;line-height:;}.full-width-content .recent-post-container .inner-wrap h2{font-size:;line-height:;}}@media only screen and (max-width:690px){body .row .col.section-title h1,body h1{font-size:;line-height:;}.full-width-content .recent-post-container .inner-wrap h2{font-size:;line-height:;}}#page-header-bg h2,body h2,article.post .post-header h2,article.post.quote .post-content h2,article.post.link .post-content h2,article.post.format-status .post-content h2,#call-to-action span,.woocommerce .full-width-tabs #reviews h3,.row .col.section-title h2{text-transform:capitalize;font-size:34px;line-height:39px;font-weight:400;}@media only screen and (max-width:1300px) and (min-width:1000px){body h2{font-size:28.9px;line-height:33.15px;}.row .span_2 h2,.row .span_3 h2,.row .span_4 h2,.row .vc_col-sm-2 h2,.row .vc_col-sm-3 h2,.row .vc_col-sm-4 h2{font-size:23.8px;line-height:27.3px;}}@media only screen and (max-width:690px){.col h2{font-size:20.4px;line-height:23.4px;}}body h3,.row .col h3,.toggle h3 a,.ascend #respond h3,.ascend h3#comments,.woocommerce ul.products li.product.text_on_hover h3,.masonry.classic_enhanced .masonry-blog-item h3.title{text-transform:capitalize;font-size:39px;line-height:40px;font-weight:400;}@media only screen and (min-width:1000px){.ascend .comments-section .comment-wrap.full-width-section > h3,.blog_next_prev_buttons[data-post-header-style="default_minimal"] .col h3{font-size:66.3px!important;line-height:74.3px!important;}.masonry.classic_enhanced .masonry-blog-item.large_featured h3.title{font-size:58.5px!important;line-height:60px!important;}}@media only screen and (min-width:1300px) and (max-width:1500px){body .portfolio-items.constrain-max-cols.masonry-items .col.elastic-portfolio-item h3{font-size:33.15px!important;line-height:34px;}}@media only screen and (max-width:1300px) and (min-width:1000px),(max-width:690px){.row .span_2 h3,.row .span_3 h3,.row .span_4 h3,.row .vc_col-sm-2 h3,.row .vc_col-sm-3 h3,.row .vc_col-sm-4 h3{font-size:27.3px;line-height:28px;}}body h4,.row .col h4,.portfolio-items .work-meta h4,.portfolio-items .col.span_3 .work-meta h4,#respond h3,h3#comments,.portfolio-items[data-ps="6"] .work-meta h4{text-transform:capitalize;letter-spacing:-1px;font-size:19px;line-height:19px;}@media only screen and (min-width:690px){.portfolio-items[data-ps="6"] .wide_tall .work-meta h4{font-size:32.3px!important;line-height:40.3px!important;}}body h5,.row .col h5,.portfolio-items .work-item.style-3-alt p{font-family:Oswald;}body .wpb_column > .wpb_wrapper > .morphing-outline .inner > h5{font-size:;}body h6,.row .col h6{font-family:Arizonia;text-transform:uppercase;font-size:40px;line-height:40px;font-weight:400;}body i,body em,.masonry.meta_overlaid article.post .post-header .meta-author > span,#post-area.masonry.meta_overlaid article.post .post-meta .date,#post-area.masonry.meta_overlaid article.post.quote .quote-inner .author,#post-area.masonry.meta_overlaid article.post.link .post-content .destination{}form label,.woocommerce-checkout-review-order-table .product-info .amount,.woocommerce-checkout-review-order-table .product-info .product-quantity,.nectar-progress-bar p,.nectar-progress-bar span strong i,.nectar-progress-bar span strong,.testimonial_slider blockquote span{}.nectar-dropcap{}body #page-header-bg h1,html body .row .col.section-title h1,.nectar-box-roll .overlaid-content h1{}@media only screen and (min-width:690px) and (max-width:1000px){#page-header-bg .span_6 h1,.overlaid-content h1{font-size:;line-height:;}}@media only screen and (min-width:1000px) and (max-width:1300px){#page-header-bg .span_6 h1,.nectar-box-roll .overlaid-content h1{font-size:;line-height:;}}@media only screen and (min-width:1300px) and (max-width:1500px){#page-header-bg .span_6 h1,.nectar-box-roll .overlaid-content h1{font-size:;line-height:;}}@media only screen and (max-width:690px){#page-header-bg.fullscreen-header .span_6 h1,.overlaid-content h1{font-size:;line-height:;}}body #page-header-bg .span_6 span.subheader,body .row .col.section-title > span,.nectar-box-roll .overlaid-content .subheader{}@media only screen and (min-width:1000px) and (max-width:1300px){body #page-header-bg:not(.fullscreen-header) .span_6 span.subheader,body .row .col.section-title > span{font-size:;line-height:;}}@media only screen and (min-width:690px) and (max-width:1000px){body #page-header-bg.fullscreen-header .span_6 span.subheader,.overlaid-content .subheader{font-size:;line-height:;}}@media only screen and (max-width:690px){body #page-header-bg.fullscreen-header .span_6 span.subheader,.overlaid-content .subheader{font-size:;line-height:;}}body #slide-out-widget-area .inner .off-canvas-menu-container li a,body #slide-out-widget-area.fullscreen .inner .off-canvas-menu-container li a{text-transform:uppercase;font-size:22px;line-height:22px;font-weight:400;}@media only screen and (min-width:690px) and (max-width:1000px){body #slide-out-widget-area.fullscreen .inner .off-canvas-menu-container li a{font-size:19.8px!important;line-height:19.8px!important;}}@media only screen and (max-width:690px){body #slide-out-widget-area.fullscreen .inner .off-canvas-menu-container li a{font-size:15.4px!important;line-height:15.4px!important;}}#slide-out-widget-area .menuwrapper li small{text-transform:capitalize;font-size:15px;line-height:15px;font-weight:400;}@media only screen and (min-width:690px) and (max-width:1000px){#slide-out-widget-area .menuwrapper li small{font-size:13.5px!important;line-height:13.5px!important;}}@media only screen and (max-width:690px){#slide-out-widget-area .menuwrapper li small{font-size:10.5px!important;line-height:10.5px!important;}}.swiper-slide .content h2{font-family:Suravaram;letter-spacing:-2px;font-size:60px;line-height:61px;font-weight:400;}@media only screen and (min-width:1000px) and (max-width:1300px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,body .full-width-content .vc_span12 .swiper-slide .content h2{font-size:48px!important;line-height:48.8px!important;}}@media only screen and (min-width:690px) and (max-width:1000px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,body .full-width-content .vc_span12 .swiper-slide .content h2{font-size:36px!important;line-height:36.6px!important;}}@media only screen and (max-width:690px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,body .full-width-content .vc_span12 .swiper-slide .content h2{font-size:30px!important;line-height:30.5px!important;}}#featured article .post-title h2 span,.swiper-slide .content p,#portfolio-filters-inline #current-category,body .vc_text_separator div{}#portfolio-filters-inline ul{line-height:;}.swiper-slide .content p.transparent-bg span{}@media only screen and (min-width:1000px) and (max-width:1300px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:;line-height:;}}@media only screen and (min-width:690px) and (max-width:1000px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:;line-height:;}}@media only screen and (max-width:690px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,body .full-width-content .vc_span12 .swiper-slide .content p{font-size:;line-height:;}}.testimonial_slider blockquote,.testimonial_slider blockquote span,blockquote{}#footer-outer .widget h4,#sidebar h4,#call-to-action .container a,.uppercase,.nectar-button,body .widget_calendar table th,body #footer-outer #footer-widgets .col .widget_calendar table th,.swiper-slide .button a,header#top nav > ul > li.megamenu > ul > li > a,.carousel-heading h2,body .gform_wrapper .top_label .gfield_label,body .vc_pie_chart .wpb_pie_chart_heading,#infscr-loading div,#page-header-bg .author-section a,.ascend input[type="submit"],.ascend button[type="submit"],.widget h4,.text-on-hover-wrap .categories a,.text_on_hover.product .add_to_cart_button,.woocommerce-page div[data-project-style="text_on_hover"] .single_add_to_cart_button,.woocommerce div[data-project-style="text_on_hover"] .cart .quantity input.qty,.woocommerce-page #respond input#submit,.meta_overlaid article.post .post-header h2,.meta_overlaid article.post.quote .post-content h2,.meta_overlaid article.post.link .post-content h2,.meta_overlaid article.post.format-status .post-content h2,.meta_overlaid article .meta-author a,.pricing-column.highlight h3 .highlight-reason,.blog-recent[data-style="minimal"] .col > span,.masonry.classic_enhanced .posts-container article .meta-category a,.nectar-recent-posts-slider .container .strong,#page-header-bg[data-post-hs="default_minimal"] .inner-wrap > a,.single .heading-title[data-header-style="default_minimal"] .meta-category a,.nectar-fancy-box .link-text{font-weight:normal;}.team-member h4,.row .col.section-title p,.row .col.section-title span,#page-header-bg .subheader,.nectar-milestone .subject,.testimonial_slider blockquote span{}article.post .post-meta .month{line-height:-6px!important;}</style><!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.downtowndental.ca/wp-content/plugins/js_composer_salient/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="https://www.downtowndental.ca/wp-content/plugins/js_composer_salient/assets/css/vc-ie8.min.css" media="screen"><![endif]--><link rel="icon" href="https://www.downtowndental.ca/wp-content/uploads/2016/07/favicon3-50x50.png" sizes="32x32" />
+<link rel="icon" href="https://www.downtowndental.ca/wp-content/uploads/2016/07/favicon3.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.downtowndental.ca/wp-content/uploads/2016/07/favicon3.png" />
+<meta name="msapplication-TileImage" content="https://www.downtowndental.ca/wp-content/uploads/2016/07/favicon3.png" />
+		<style type="text/css" id="wp-custom-css">
+			html, body {
+  overflow: auto !important;
+  height: auto !important;
+}		</style>
+		<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<link type="text/css" rel="stylesheet" href="//www.demandforce.com/widget/css/widget.css" />
+
+</head>
+
+
+<body class="error404 wp-theme-dtd wp-child-theme-dtd-child ascend wpb-js-composer js-comp-ver-4.12 vc_responsive" data-footer-reveal="false" data-footer-reveal-shadow="none" data-cae="linear" data-cad="650" data-aie="none" data-ls="magnific" data-apte="standard" data-hhun="0" data-fancy-form-rcs="default" data-form-style="default" data-is="minimal" data-button-style="default" data-header-inherit-rc="false" data-header-search="false" data-animated-anchors="false" data-ajax-transitions="false" data-full-width-header="false" data-slide-out-widget-area="true" data-loading-animation="none" data-bg-header="false" data-ext-responsive="true" data-header-resize="1" data-header-color="light" data-transparent-header="false" data-smooth-scrolling="1" data-permanent-transparent="false" data-responsive="1" >
+
+
+
+
+	<div id="header-secondary-outer" data-full-width="true" data-permanent-transparent="false" >
+		<div class="container">
+			<nav>
+									<ul id="social">
+												 <li><a target="_blank" href="https://www.facebook.com/DowntownDentalCentre/"><i class="icon-facebook"></i> </a></li> 																																																												 <li><a target="_blank" href="https://www.google.ca/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=Downtown+Dental+Associates&rlst=f&rflfq=1&num=20&stick=H4sIAAAAAAAAACWRS04DQQxElQ1izSAWs8oR_LfrFlwhQkEsIgUlF-NcnILqsJgedbddflX9_LRvLjApbXdLlVTt2reKGo9InbCZiSndX9UG6YqSbkUDMevUYekZ0SXFgpD0fYOLZJXxgxhEIfvWZikz5tD04mAX9ueEC6d5ABMhUuuUa2hms9O8JRu9byQaMwvxIEhOpVE1gYoWr5mCaUlyPq_cBx3SHFndhDIju1WDOpUUp6sXiNAlCGieUAnjdE2QncrOVtcyezBlskq7e8FnmPynwp3wR1hTk-lVywStx50r5RmDPryCAesQtam1PCyFcCrlegVhJkMe0KtpMgsMKYPA0Po5HH4Pb-_n6_flfDxd7tfj_Xy6fXwdP6-3P05_PsLLAQAA&rldimm=3092061733251051176&tbs=lf:1"><i class="icon-google-plus"></i> </a></li> 																																															</ul><div id="header-top-review"><a href="http://www.downtowndental.ca/reviews/">READ OUR REVIEWS!</a></div>
+				
+									<ul class="sf-menu">
+				   	   <li id="menu-item-804" class="menu-item menu-item-type-custom menu-item-object-custom button_solid_color menu-item-804"><a href="tel:416-593-5111" itemprop="url"><i class="fa fa-mobile" aria-hidden="true"></i>  (416) 593-5111</a></li>
+				    </ul>
+				
+			</nav>
+		</div>
+	</div>
+
+ <div id="header-space" data-header-mobile-fixed='1'></div> 
+
+<div id="header-outer" data-has-menu="true"  data-mobile-fixed="1" data-ptnm="false" data-lhe="default" data-user-set-bg="#ffffff" data-format="centered-menu-under-logo" data-permanent-transparent="false" data-cart="false" data-transparency-option="0" data-shrink-num="6" data-full-width="false" data-using-secondary="1" data-using-logo="1" data-logo-height="100" data-m-logo-height="35" data-padding="28" data-header-resize="1">
+
+	
+	<header id="top">
+
+		<div class="container">
+
+			<div class="row">
+
+				<div class="col span_3">
+
+					<a id="logo" href="https://www.downtowndental.ca" >
+
+						<img class="stnd default-logo" alt="Downtown Dental Centre Toronto" src="https://www.downtowndental.ca/wp-content/uploads/2024/02/DowntownDental-Logo.png" /><img class="retina-logo " alt="Downtown Dental Centre Toronto" src="https://www.downtowndental.ca/wp-content/uploads/2024/02/DowntownDental-Logo.png" />					</a>
+
+				</div><!--/span_3-->
+
+				<div class="col span_9 col_last">
+
+					
+											<div class="slide-out-widget-area-toggle">
+							<div> <a href="#sidewidgetarea" class="closed"> <i class="icon-reorder"></i> </a> </div>
+       					</div>
+					
+					<nav>
+						<ul class="buttons" data-user-set-ocm="off">
+							<li id="search-btn"><div><a href="#searchbox"><span class="icon-salient-search" aria-hidden="true"></span></a></div> </li>
+
+															<li class="slide-out-widget-area-toggle">
+									<div> <a href="#sidewidgetarea" class="closed"> <span> <i class="lines-button x2"> <i class="lines"></i> </i> </span> </a> </div>
+       							</li>
+													</ul>
+						<ul class="DD MENU">
+							
+<!-- UberMenu [Configuration:main] [Theme Loc:top_nav] [Integration:api] -->
+<nav id="ubermenu-main-3-top_nav" class="ubermenu ubermenu-nojs ubermenu-main ubermenu-menu-3 ubermenu-loc-top_nav ubermenu-responsive-collapse ubermenu-horizontal ubermenu-transition-slide ubermenu-trigger-click ubermenu-skin-none  ubermenu-bar-align-full ubermenu-items-align-center ubermenu-sub-indicators ubermenu-retractors-responsive"><ul id="ubermenu-nav-main-3-top_nav" class="ubermenu-nav"><li id="menu-item-1303" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-home ubermenu-item-1303 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Welcome to Downtown Dental" href="https://www.downtowndental.ca/" tabindex="0" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">HOME</span></a></li><li id="menu-item-415" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-415 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">About</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-415 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width" ><li id="menu-item-779" class="DD_itemtitle ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-779 ubermenu-item-auto ubermenu-item-unknown-[unk] ubermenu-item-level-1 ubermenu-column ubermenu-column-1-4" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-image_above ubermenu-content-align-center" title="Our Dentists" href="https://www.downtowndental.ca/our-dentists/" itemprop="url"><img class="ubermenu-image ubermenu-image-size-medium" src="https://www.downtowndental.ca/wp-content/uploads/2019/01/Dr.-Paul-Custoreri-display-image-300x181.jpg" width="300" height="181" alt="Dr.-Paul-Custoreri display image"  /><span class="ubermenu-target-title ubermenu-target-text">Our Dentists</span></a></li><li id="menu-item-781" class="DD_itemtitle ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-781 ubermenu-item-auto ubermenu-item-unknown-[unk] ubermenu-item-level-1 ubermenu-column ubermenu-column-1-4" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-image_above ubermenu-content-align-center" title="Hygienists-Assistants" href="https://www.downtowndental.ca/hygenists-assistants/" itemprop="url"><img class="ubermenu-image ubermenu-image-size-medium" src="https://www.downtowndental.ca/wp-content/uploads/2016/05/Hygenist-03-300x244.jpg" srcset="https://www.downtowndental.ca/wp-content/uploads/2016/05/Hygenist-03-300x244.jpg 300w, https://www.downtowndental.ca/wp-content/uploads/2016/05/Hygenist-03-768x624.jpg 768w, https://www.downtowndental.ca/wp-content/uploads/2016/05/Hygenist-03.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="244" alt="Hygienist-03"  /><span class="ubermenu-target-title ubermenu-target-text">Hygienists/Assistants</span></a></li><li id="menu-item-780" class="DD_itemtitle ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-780 ubermenu-item-auto ubermenu-item-unknown-[unk] ubermenu-item-level-1 ubermenu-column ubermenu-column-1-4" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-image_above ubermenu-content-align-center" title="Administration" href="https://www.downtowndental.ca/administration/" itemprop="url"><img class="ubermenu-image ubermenu-image-size-medium" src="https://www.downtowndental.ca/wp-content/uploads/2016/05/Administration-03-300x244.jpg" srcset="https://www.downtowndental.ca/wp-content/uploads/2016/05/Administration-03-300x244.jpg 300w, https://www.downtowndental.ca/wp-content/uploads/2016/05/Administration-03-768x624.jpg 768w, https://www.downtowndental.ca/wp-content/uploads/2016/05/Administration-03.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="244" alt="Administration 03"  /><span class="ubermenu-target-title ubermenu-target-text">Administration</span></a></li><li id="menu-item-1545" class="DD_itemtitle ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-1545 ubermenu-item-auto ubermenu-item-unknown-[unk] ubermenu-item-level-1 ubermenu-column ubermenu-column-1-4" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-image_above ubermenu-content-align-center" title="FAQ" href="https://downtowndental.ca/docs/frequently-asked-questions/" itemprop="url"><img class="ubermenu-image ubermenu-image-size-full" src="https://www.downtowndental.ca/wp-content/uploads/2016/06/FAQ.jpg" srcset="https://www.downtowndental.ca/wp-content/uploads/2016/06/FAQ.jpg 414w, https://www.downtowndental.ca/wp-content/uploads/2016/06/FAQ-300x181.jpg 300w" sizes="(max-width: 414px) 100vw, 414px" width="414" height="250" alt="FAQ"  /><span class="ubermenu-target-title ubermenu-target-text">FAQ</span></a></li></ul></li><li id="menu-item-794" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-794 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">NEW PATIENTS</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-794 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width" ><li id="menu-item-796" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-796 ubermenu-item-auto ubermenu-item-unknown-[unk] ubermenu-item-level-1 ubermenu-column ubermenu-column-1-2" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-image_above ubermenu-content-align-center" title="New Patient Experience (What to Expect)" href="https://www.downtowndental.ca/new-patients/" itemprop="url"><img class="ubermenu-image ubermenu-image-size-full" src="https://www.downtowndental.ca/wp-content/uploads/2016/06/New-Patient-Experiecne.jpg" srcset="https://www.downtowndental.ca/wp-content/uploads/2016/06/New-Patient-Experiecne.jpg 414w, https://www.downtowndental.ca/wp-content/uploads/2016/06/New-Patient-Experiecne-300x181.jpg 300w" sizes="(max-width: 414px) 100vw, 414px" width="414" height="250" alt="New Patient Experiecne"  /><span class="ubermenu-target-title ubermenu-target-text">New Patient Experience (What to Expect)</span></a></li><li id="menu-item-795" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-795 ubermenu-item-auto ubermenu-item-unknown-[unk] ubermenu-item-level-1 ubermenu-column ubermenu-column-1-2" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-image_above ubermenu-content-align-center" title="Dental Forms" href="https://www.downtowndental.ca/forms/" itemprop="url"><img class="ubermenu-image ubermenu-image-size-full" src="https://www.downtowndental.ca/wp-content/uploads/2016/08/Dental-Forms-02.jpg" srcset="https://www.downtowndental.ca/wp-content/uploads/2016/08/Dental-Forms-02.jpg 414w, https://www.downtowndental.ca/wp-content/uploads/2016/08/Dental-Forms-02-300x181.jpg 300w" sizes="(max-width: 414px) 100vw, 414px" width="414" height="250" alt="Dental Forms"  /><span class="ubermenu-target-title ubermenu-target-text">Dental Forms (Download &#038; Print)</span></a></li></ul></li><li id="menu-item-405" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-405 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Dental Treatments" href="#" tabindex="0" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Treatments</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-405 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width" ><li id="menu-item-412" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-412 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-6" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Bonded Fillings" href="https://www.downtowndental.ca/bonded-fillings/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Bonded Fillings</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">We match your natural teeth colour</span></a></li><li id="menu-item-406" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-406 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-6" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Dental Bridge" href="https://www.downtowndental.ca/dental-bridges/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Dental Bridges</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Don’t be afraid to be social again!</span></a></li><li id="menu-item-411" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-411 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-6" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Dental Crowns &#8211; Protective Caps" href="https://www.downtowndental.ca/dental-crowns/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Dental Crowns</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Porcelain crowns of come a long way. Natural looking &#038; very strong!</span></a></li><li id="menu-item-572" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-572 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-6" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Dental Implants" href="https://www.downtowndental.ca/dental-implants/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Dental Implants</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Often the best option for missing teeth</span></a></li><li id="menu-item-450" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-450 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-6" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Identify Cancerous Cells In The Mouth" href="https://www.downtowndental.ca/oral-cancer-screening/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Oral Cancer Screening</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Identify cancerous cells in the mouth</span></a></li><li id="menu-item-407" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-407 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-6" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Wisdom Tooth Extractions" href="https://www.downtowndental.ca/wisdom-tooth-extractions/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Wisdom Tooth Extractions</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">To perform oral surgery it takes experience</span></a></li><li id="menu-item-408" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-408 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-6" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Orthodontics &#8211; TMJ &#038; Misaligned Teeth" href="https://www.downtowndental.ca/orthodontics/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Orthodontics</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Consult with our trained Dentist</span></a></li><li id="menu-item-933" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-933 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-6" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Periodontal Therapy  &#8211; Gingivitis" href="https://www.downtowndental.ca/periodontal-therapy/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Periodontal Therapy</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Maintain healthy teeth and gums</span></a></li><li id="menu-item-1049" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1049 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-6" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Root Canal Therapy" href="https://www.downtowndental.ca/root-canal-therapy/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Root Canal Therapy</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Let us talk you through each step</span></a></li><li id="menu-item-1048" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1048 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-6" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Temporomandiobular Joint Disorder" href="https://www.downtowndental.ca/tmj-therapy/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">TMJ-TMD Therapy</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">We can help!</span></a></li><li id="menu-item-1059" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1059 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-6" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Sports Guards Night Guards" href="https://www.downtowndental.ca/sports-guards/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Sports / Night Guards</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Protect your teeth at all times!</span></a></li><li id="menu-item-571" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-571 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-6" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Gum Therapy" href="https://www.downtowndental.ca/gum-therapy/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Gum Therapy – Non Surgical</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Gum disease is a serious problem if left untreated</span></a></li><li id="menu-item-409" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-409 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-6" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Cosmetic Restorations &#8211; Crowns, Veneers &#038; Tooth Replacement" href="https://www.downtowndental.ca/cosmetic-restorations/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Cosmetic Restorations</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Don’t shy away because of your smile</span></a></li><li id="menu-item-569" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-569 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-6" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Teeth Whitening" href="https://www.downtowndental.ca/teeth-whitening/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Teeth Whitening</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Brushing &#038; flossing is not enough!</span></a></li><li id="menu-item-570" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-570 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-6" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Fresh Breath Therapy" href="https://www.downtowndental.ca/fresh-breath-therapy/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Fresh Breath Therapy</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Get rid of halitosis for good</span></a></li><li id="menu-item-573" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-573 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-6" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Teeth Cleaning" href="https://www.downtowndental.ca/teeth-cleaning/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Teeth Cleaning</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Hygiene &#038; scaling services</span></a></li><li id="menu-item-837" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-837 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-6" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Invisible Braces &#8211; Invisalign &#038; MTM Invisible brace systems" href="https://www.downtowndental.ca/invisible-braces/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Invisible Braces</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Invisalign &#038; MTM invisible brace systems</span></a></li><li id="menu-item-896" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-896 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-6" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Dentures &#8211; Partial Dentures &#038; Complete Dentures" href="https://www.downtowndental.ca/dentures/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Dentures</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Partial Dentures &#038; Complete Dentures</span></a></li><li id="menu-item-938" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-938 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-6" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Porcelain Inlays &#038; Onlays" href="https://www.downtowndental.ca/porcelain-inlays-onlays/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Porcelain Inlays &#038; Onlays</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Perfect colour match &#038; fit</span></a></li><li id="menu-item-949" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-949 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-6" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Porcelain Veneers" href="https://www.downtowndental.ca/porcelain-veneers/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Porcelain Veneers</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Correct uneven, stained or mishappen teeth</span></a></li><li id="menu-item-4074" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-4074 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.downtowndental.ca/canadian-dental-care-plan-cdcp/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Canadian Dental Care Plan (CDCP)</span></a></li><li id="menu-item-4106" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-4106 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.downtowndental.ca/botox-for-tmj/" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Botox For TMJ</span></a></li></ul></li><li id="menu-item-803" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-803 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Smile Gallery" href="https://www.downtowndental.ca/before-after/" tabindex="0" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Before &#038; After</span></a></li><li id="menu-item-802" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-802 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Office Tour" href="https://www.downtowndental.ca/office-tour/" tabindex="0" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Office Tour</span></a></li><li id="menu-item-465" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-465 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" title="Contact the Dental Centre" href="https://www.downtowndental.ca/contact-us/" tabindex="0" itemprop="url"><span class="ubermenu-target-title ubermenu-target-text">Contact</span></a></li></ul></nav>
+<!-- End UberMenu -->
+						</ul>
+
+					</nav>
+
+				</div><!--/span_9-->
+
+			</div><!--/row-->
+
+		</div><!--/container-->
+
+	</header>
+
+
+	<div class="ns-loading-cover"></div>
+
+</div><!--/header-outer-->
+
+
+<div id="search-outer" class="nectar">
+		
+	<div id="search">
+	  	 
+		<div class="container">
+		  	 	
+		     <div id="search-box">
+		     	
+		     	<div class="col span_12">
+			      	<form action="https://www.downtowndental.ca" method="GET">
+			      		<input type="text" name="s" id="s" value="Start Typing..." data-placeholder="Start Typing..." />
+			      	</form>
+			      			        </div><!--/span_12-->
+			      
+		     </div><!--/search-box-->
+		     
+		     <div id="close"><a href="#"><span class="icon-salient-x" aria-hidden="true"></span></a></div>
+		     
+		 </div><!--/container-->
+	    
+	</div><!--/search-->
+	  
+</div><!--/search-outer-->
+<div id="mobile-menu" data-mobile-fixed="1">
+
+	<div class="container">
+		<ul>
+			<li><a href="">No menu assigned!</a></li>		</ul>
+	</div>
+
+</div>
+
+
+<div id="ajax-loading-screen" data-disable-fade-on-click="0" data-effect="standard" data-method="standard">
+
+			<span class="loading-icon none">
+			<span class="default-loading-icon spin"></span>		</span>
+	</div>
+
+<div id="ajax-content-wrap">
+
+
+<div class="container-wrap">
+	
+	<div class="container main-content">
+		
+		<div class="row">
+			
+			<div class="col span_12">
+				
+				<div id="error-404">
+					<h1>404</h1>
+					<h2>Not Found</h2>
+				</div>
+				
+			</div><!--/span_12-->
+			
+		</div><!--/row-->
+		
+	</div><!--/container-->
+
+</div>
+
+<div id="footer-outer" data-midnight="light" data-using-widget-area="true">
+	
+	
+			
+	<div id="footer-widgets">
+		
+		<div class="container">
+			
+			<div class="row">
+				
+								
+				<div class="col span_4">
+				      <!-- Footer widget area 1 -->
+		              <div id="nav_menu-2" class="widget widget_nav_menu"><h4>Dental Treatments</h4><div class="menu-dental-treatments-container"><ul id="menu-dental-treatments" class="menu"><li id="menu-item-1083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1083"><a href="https://www.downtowndental.ca/bonded-fillings/" itemprop="url">Bonded Fillings</a></li>
+<li id="menu-item-1080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1080"><a href="https://www.downtowndental.ca/dental-bridges/" itemprop="url">Dental Bridges</a></li>
+<li id="menu-item-1079" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1079"><a href="https://www.downtowndental.ca/oral-cancer-screening/" itemprop="url">Oral Cancer Screening</a></li>
+<li id="menu-item-1081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081"><a href="https://www.downtowndental.ca/wisdom-tooth-extractions/" itemprop="url">Wisdom Tooth Extractions</a></li>
+<li id="menu-item-1082" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1082"><a href="https://www.downtowndental.ca/orthodontics/" itemprop="url">Orthodontics</a></li>
+<li id="menu-item-1078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1078"><a href="https://www.downtowndental.ca/dental-implants/" itemprop="url">Dental Implants</a></li>
+<li id="menu-item-1077" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1077"><a href="https://www.downtowndental.ca/periodontal-therapy/" itemprop="url">Periodontal Therapy</a></li>
+<li id="menu-item-1076" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1076"><a href="https://www.downtowndental.ca/root-canal-therapy/" itemprop="url">Root Canal Therapy</a></li>
+<li id="menu-item-1075" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1075"><a href="https://www.downtowndental.ca/tmj-therapy/" title="TMJ Therapy" itemprop="url">TMJ-TMD Therapy</a></li>
+<li id="menu-item-1074" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1074"><a href="https://www.downtowndental.ca/sports-guards/" title="Sports Guards &#8211; Night Guards" itemprop="url">Sports Guards – Night Guards</a></li>
+<li id="menu-item-4108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4108"><a href="https://www.downtowndental.ca/canadian-dental-care-plan-cdcp/" itemprop="url">Canadian Dental Care Plan (CDCP)</a></li>
+<li id="menu-item-4107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4107"><a href="https://www.downtowndental.ca/botox-for-tmj/" itemprop="url">Botox For TMJ</a></li>
+</ul></div></div><div id="nav_menu-3" class="widget widget_nav_menu"><h4>Cosmetic &#038; Restorative</h4><div class="menu-cosmeticrestorative-container"><ul id="menu-cosmeticrestorative" class="menu"><li id="menu-item-1090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1090"><a href="https://www.downtowndental.ca/cosmetic-restorations/" itemprop="url">Cosmetic Restorations</a></li>
+<li id="menu-item-1087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1087"><a href="https://www.downtowndental.ca/teeth-whitening/" itemprop="url">Teeth Whitening</a></li>
+<li id="menu-item-1088" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1088"><a href="https://www.downtowndental.ca/fresh-breath-therapy/" itemprop="url">Fresh Breath Therapy</a></li>
+<li id="menu-item-1089" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1089"><a href="https://www.downtowndental.ca/teeth-cleaning/" itemprop="url">Teeth Cleaning</a></li>
+<li id="menu-item-1091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1091"><a href="https://www.downtowndental.ca/invisible-braces/" itemprop="url">Invisible Braces</a></li>
+<li id="menu-item-1086" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1086"><a href="https://www.downtowndental.ca/dentures/" itemprop="url">Dentures</a></li>
+<li id="menu-item-1084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1084"><a href="https://www.downtowndental.ca/porcelain-veneers/" itemprop="url">Porcelain Veneers</a></li>
+<li id="menu-item-1085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1085"><a href="https://www.downtowndental.ca/porcelain-inlays-onlays/" itemprop="url">Porcelain Inlays &#038; Onlays</a></li>
+</ul></div></div><div id="nav_menu-4" class="widget widget_nav_menu"><h4>Restorative</h4><div class="menu-restorative-container"><ul id="menu-restorative" class="menu"><li id="menu-item-1092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1092"><a href="https://www.downtowndental.ca/dental-crowns/" itemprop="url">Dental Crowns</a></li>
+<li id="menu-item-1093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1093"><a href="https://www.downtowndental.ca/gum-therapy/" itemprop="url">Gum Therapy &#8211; Non Surgical</a></li>
+</ul></div></div>				</div><!--/span_3-->
+				
+				<div class="col span_4">
+					 <!-- Footer widget area 2 -->
+		             <div id="nav_menu-9" class="widget widget_nav_menu"><h4>New Patients</h4><div class="menu-new-patients-container"><ul id="menu-new-patients" class="menu"><li id="menu-item-1094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1094"><a href="https://www.downtowndental.ca/forms/" itemprop="url">Forms</a></li>
+<li id="menu-item-1095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1095"><a href="https://www.downtowndental.ca/new-patients/" itemprop="url">New Patient Experience</a></li>
+</ul></div></div><div id="nav_menu-10" class="widget widget_nav_menu"><h4>About</h4><div class="menu-about-container"><ul id="menu-about" class="menu"><li id="menu-item-1099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1099"><a href="https://www.downtowndental.ca/contact-us/" itemprop="url">Contact Us</a></li>
+<li id="menu-item-1073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1073"><a href="https://www.downtowndental.ca/our-dentists/" itemprop="url">Our Dentists</a></li>
+<li id="menu-item-1072" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1072"><a href="https://www.downtowndental.ca/hygenists-assistants/" title="Hygienists-Assistants" itemprop="url">Hygienists/Assistants</a></li>
+<li id="menu-item-1071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1071"><a href="https://www.downtowndental.ca/administration/" itemprop="url">Administration</a></li>
+<li id="menu-item-1070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1070"><a href="https://www.downtowndental.ca/faq/" title="Frequently Asked Questions" itemprop="url">FAQ</a></li>
+<li id="menu-item-1096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1096"><a href="https://www.downtowndental.ca/technology/" itemprop="url">Technology</a></li>
+<li id="menu-item-1097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1097"><a href="https://www.downtowndental.ca/office-tour/" itemprop="url">Office Tour</a></li>
+<li id="menu-item-1098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1098"><a href="https://www.downtowndental.ca/before-after/" title="Before &#038; After Gallery" itemprop="url">Before &#038; After</a></li>
+</ul></div></div>				     
+				</div><!--/span_3-->
+				
+									<div class="col span_4">
+						 <!-- Footer widget area 3 -->
+			              <div id="xyz_insert_html_widget-2" class="widget widget_xyz_insert_html_widget"><div style="margin-top:10px;" itemscope="" itemtype="https://schema.org/Dentist">
+<h3 class="white address" itemprop="name">Downtown Dental Centre</h3>
+</div>
+<div class="white address_text" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress"><span itemprop="streetAddress">700 University Avenue</span><br>
+<span itemprop="streetAddress">Shopping Concourse</span><br>
+<span itemprop="addressLocality">Toronto</span>, <span itemprop="addressRegion">ON</span> <span itemprop="postalCode"> M5G 1Z5</span><br>
+<span itemprop="contactType"> <span itemprop="telephone"><a href="tel:416-593-5111"><strong><span class="" style="font-family: 'DD', sans-serif; font-size: 20px;"><i class="fa fa-phone-square" aria-hidden="true"></i> PH: (416) 593-5111</span></strong></a></span></span><br>
+<span itemprop="telephone"><strong> <span class="" style="font-family: 'DD', sans-serif; font-size: 20px;"><i class="fa fa-phone-square" aria-hidden="true"></i> FX: (416) 593-6590</span></strong></span></div></div><div id="text-2" class="widget widget_text">			<div class="textwidget"><h3 class="white">Practice Hours</h3>
+<ul class="list-a white">
+	<li itemprop="" itemscope="" itemtype="https://schema.org/OpeningHoursSpecification"><span itemprop="dayOfWeek" itemscope="" itemtype="https://schema.org/DayOfWeek"> <span itemprop="name">Monday</span></span>: <span itemprop="opens" content="MoT08:00">8:00am</span> - <span itemprop="closes" content="MoT17:45">5:45pm</span></li>
+	<li itemprop="opens" itemscope="" itemtype="https://schema.org/OpeningHoursSpecification"><span itemprop="dayOfWeek" itemscope="" itemtype="https://schema.org/DayOfWeek"> <span itemprop="name">Tuesday</span></span>: <span itemprop="opens" content="TuT08:00">8:00am</span> - <span itemprop="closes" content="tuT17:45">5:45pm</span></li>
+	<li itemprop="" itemscope="" itemtype="https://schema.org/OpeningHoursSpecification"><span itemprop="dayOfWeek" itemscope="" itemtype="https://schema.org/DayOfWeek"> <span itemprop="name">Wednesday</span></span>: <span itemprop="opens" content="WdT08:00">8:00am</span> - <span itemprop="closes" content="WdT16:45">4:45pm</span></li>
+	<li itemprop="s" itemscope="" itemtype="https://schema.org/OpeningHoursSpecification"><span itemprop="dayOfWeek" itemscope="" itemtype="https://schema.org/DayOfWeek"> <span itemprop="name">Thursday</span></span>: <span itemprop="opens" content="ThT08:00">8:00am</span> - <span itemprop="closes" content="ThT16:45">4:45pm</span></li>
+	<li itemprop="s" itemscope="" itemtype="https://schema.org/OpeningHoursSpecification"><span itemprop="dayOfWeek" itemscope="" itemtype="https://schema.org/DayOfWeek"> <span itemprop="name">Friday</span></span>: <span itemprop="opens" content="FrT07:30">7:30am</span> - <span itemprop="closes" content="FrT15:00">3:00pm</span></li>
+</ul></div>
+		</div>					     
+					</div><!--/span_3-->
+								
+								
+			</div><!--/row-->
+			
+		</div><!--/container-->
+	
+	</div><!--/footer-widgets-->
+	
+	
+	
+		<div class="row" id="copyright">
+			
+			<div class="container">
+				
+				<div class="col span_5">
+					
+											<p>©2022 Downtown Dental Centre </p>	
+										
+				</div><!--/span_5-->
+				
+				<div class="col span_7 col_last">
+					<ul id="social">
+												 <li><a target="_blank" href="https://www.facebook.com/DowntownDentalCentre/"><i class="icon-facebook"></i> </a></li> 																																																												 <li><a target="_blank" href="https://www.google.ca/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=Downtown+Dental+Associates&rlst=f&rflfq=1&num=20&stick=H4sIAAAAAAAAACWRS04DQQxElQ1izSAWs8oR_LfrFlwhQkEsIgUlF-NcnILqsJgedbddflX9_LRvLjApbXdLlVTt2reKGo9InbCZiSndX9UG6YqSbkUDMevUYekZ0SXFgpD0fYOLZJXxgxhEIfvWZikz5tD04mAX9ueEC6d5ABMhUuuUa2hms9O8JRu9byQaMwvxIEhOpVE1gYoWr5mCaUlyPq_cBx3SHFndhDIju1WDOpUUp6sXiNAlCGieUAnjdE2QncrOVtcyezBlskq7e8FnmPynwp3wR1hTk-lVywStx50r5RmDPryCAesQtam1PCyFcCrlegVhJkMe0KtpMgsMKYPA0Po5HH4Pb-_n6_flfDxd7tfj_Xy6fXwdP6-3P05_PsLLAQAA&rldimm=3092061733251051176&tbs=lf:1"><i class="icon-google-plus"></i> </a></li> 																																															</ul>
+				</div><!--/span_7-->
+			
+			</div><!--/container-->
+			
+		</div><!--/row-->
+		
+		
+</div><!--/footer-outer-->
+
+
+
+	<div id="slide-out-widget-area-bg" class="slide-out-from-right dark"></div>
+	<div id="slide-out-widget-area" class="slide-out-from-right" data-back-txt="Back">
+
+		
+		<div class="inner">
+
+		  <a class="slide_out_area_close" href="#"><span class="icon-salient-x icon-default-style"></span></a>
+
+
+		   			   <div class="off-canvas-menu-container mobile-only">
+			  		<ul class="menu">
+					   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1303"><a href="https://www.downtowndental.ca/" title="Welcome to Downtown Dental" itemprop="url">HOME</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-415"><a href="#" itemprop="url">About</a>
+<ul class="sub-menu">
+	<li class="DD_itemtitle menu-item menu-item-type-post_type menu-item-object-page menu-item-779"><a href="https://www.downtowndental.ca/our-dentists/" itemprop="url">Our Dentists</a></li>
+	<li class="DD_itemtitle menu-item menu-item-type-post_type menu-item-object-page menu-item-781"><a href="https://www.downtowndental.ca/hygenists-assistants/" title="Hygienists-Assistants" itemprop="url">Hygienists/Assistants</a></li>
+	<li class="DD_itemtitle menu-item menu-item-type-post_type menu-item-object-page menu-item-780"><a href="https://www.downtowndental.ca/administration/" itemprop="url">Administration</a></li>
+	<li class="DD_itemtitle menu-item menu-item-type-custom menu-item-object-custom menu-item-1545"><a href="https://downtowndental.ca/docs/frequently-asked-questions/" itemprop="url">FAQ</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-794"><a href="#" itemprop="url">NEW PATIENTS</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-796"><a href="https://www.downtowndental.ca/new-patients/" itemprop="url">New Patient Experience (What to Expect)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-795"><a href="https://www.downtowndental.ca/forms/" title="Dental Forms" itemprop="url">Dental Forms (Download &#038; Print)</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-405"><a href="#" title="Dental Treatments" itemprop="url">Treatments</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-412"><a href="https://www.downtowndental.ca/bonded-fillings/" itemprop="url">Bonded Fillings</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="https://www.downtowndental.ca/dental-bridges/" title="Dental Bridge" itemprop="url">Dental Bridges</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-411"><a href="https://www.downtowndental.ca/dental-crowns/" title="Dental Crowns &#8211; Protective Caps" itemprop="url">Dental Crowns</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://www.downtowndental.ca/dental-implants/" itemprop="url">Dental Implants</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-450"><a href="https://www.downtowndental.ca/oral-cancer-screening/" title="Identify Cancerous Cells In The Mouth" itemprop="url">Oral Cancer Screening</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="https://www.downtowndental.ca/wisdom-tooth-extractions/" itemprop="url">Wisdom Tooth Extractions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="https://www.downtowndental.ca/orthodontics/" title="Orthodontics &#8211; TMJ &#038; Misaligned Teeth" itemprop="url">Orthodontics</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-933"><a href="https://www.downtowndental.ca/periodontal-therapy/" title="Periodontal Therapy  &#8211; Gingivitis" itemprop="url">Periodontal Therapy</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1049"><a href="https://www.downtowndental.ca/root-canal-therapy/" itemprop="url">Root Canal Therapy</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1048"><a href="https://www.downtowndental.ca/tmj-therapy/" title="Temporomandiobular Joint Disorder" itemprop="url">TMJ-TMD Therapy</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1059"><a href="https://www.downtowndental.ca/sports-guards/" title="Sports Guards Night Guards" itemprop="url">Sports / Night Guards</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-571"><a href="https://www.downtowndental.ca/gum-therapy/" title="Gum Therapy" itemprop="url">Gum Therapy – Non Surgical</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="https://www.downtowndental.ca/cosmetic-restorations/" title="Cosmetic Restorations &#8211; Crowns, Veneers &#038; Tooth Replacement" itemprop="url">Cosmetic Restorations</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-569"><a href="https://www.downtowndental.ca/teeth-whitening/" itemprop="url">Teeth Whitening</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-570"><a href="https://www.downtowndental.ca/fresh-breath-therapy/" itemprop="url">Fresh Breath Therapy</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-573"><a href="https://www.downtowndental.ca/teeth-cleaning/" itemprop="url">Teeth Cleaning</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-837"><a href="https://www.downtowndental.ca/invisible-braces/" title="Invisible Braces &#8211; Invisalign &#038; MTM Invisible brace systems" itemprop="url">Invisible Braces</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-896"><a href="https://www.downtowndental.ca/dentures/" title="Dentures &#8211; Partial Dentures &#038; Complete Dentures" itemprop="url">Dentures</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-938"><a href="https://www.downtowndental.ca/porcelain-inlays-onlays/" itemprop="url">Porcelain Inlays &#038; Onlays</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-949"><a href="https://www.downtowndental.ca/porcelain-veneers/" itemprop="url">Porcelain Veneers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4074"><a href="https://www.downtowndental.ca/canadian-dental-care-plan-cdcp/" itemprop="url">Canadian Dental Care Plan (CDCP)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4106"><a href="https://www.downtowndental.ca/botox-for-tmj/" itemprop="url">Botox For TMJ</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-803"><a href="https://www.downtowndental.ca/before-after/" title="Smile Gallery" itemprop="url">Before &#038; After</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-802"><a href="https://www.downtowndental.ca/office-tour/" itemprop="url">Office Tour</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-465"><a href="https://www.downtowndental.ca/contact-us/" title="Contact the Dental Centre" itemprop="url">Contact</a></li>
+		
+					</ul>
+				</div>
+			
+		</div>
+
+		
+	</div>
+
+
+</div> <!--/ajax-content-wrap-->
+
+
+	<a id="to-top" class=""><i class="icon-angle-up"></i></a>
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/dtd-child\/*","\/wp-content\/themes\/dtd\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.3" id="jquery-ui-menu-js"></script>
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" id="wp-a11y-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2025-11-13 14:36:03+0000","generator":"GlotPress\/4.0.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"en_CA"},"Notifications":["Notifications"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-includes/js/dist/a11y.min.js?ver=3156534cc54473497e14" id="wp-a11y-js"></script>
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.3" id="jquery-ui-autocomplete-js"></script>
+<script type="text/javascript" id="my_acsearch-js-extra">
+/* <![CDATA[ */
+var MyAcSearch = {"url":"https:\/\/www.downtowndental.ca\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-content/themes/dtd/nectar/assets/functions/ajax-search/wpss-search-suggest.js" id="my_acsearch-js"></script>
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.3" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/www.downtowndental.ca\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.3" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-content/themes/dtd/js/nicescroll.js?ver=3.5.4" id="nicescroll-js"></script>
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-content/themes/dtd/js/magnific.js?ver=7.0.1" id="magnific-js"></script>
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-content/themes/dtd/js/superfish.js?ver=1.4.8" id="superfish-js"></script>
+<script type="text/javascript" id="nectarFrontend-js-extra">
+/* <![CDATA[ */
+var nectarLove = {"ajaxurl":"https:\/\/www.downtowndental.ca\/wp-admin\/admin-ajax.php","postID":"0","rooturl":"https:\/\/www.downtowndental.ca","pluginPages":[],"disqusComments":"false"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-content/themes/dtd/js/init.js?ver=7.0.7" id="nectarFrontend-js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LcyTCwqAAAAACNT04C04lKv1qPJh9ez4ClfoAGv&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-before">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {
+    "sitekey": "6LcyTCwqAAAAACNT04C04lKv1qPJh9ez4ClfoAGv",
+    "actions": {
+        "homepage": "homepage",
+        "contactform": "contactform"
+    }
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.3" id="wpcf7-recaptcha-js"></script>
+<script type="text/javascript" id="ubermenu-js-extra">
+/* <![CDATA[ */
+var ubermenu_data = {"remove_conflicts":"on","reposition_on_load":"off","intent_delay":"300","intent_interval":"100","intent_threshold":"7","scrollto_offset":"50","scrollto_duration":"1000","responsive_breakpoint":"1000","accessible":"on","retractor_display_strategy":"responsive","touch_off_close":"on","collapse_after_scroll":"on","v":"3.2.4","configurations":["main"],"ajax_url":"https:\/\/www.downtowndental.ca\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/www.downtowndental.ca\/wp-content\/plugins\/ubermenu\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.downtowndental.ca/wp-content/plugins/ubermenu/assets/js/ubermenu.min.js?ver=3.2.4" id="ubermenu-js"></script>
+    <script>
+    jQuery(document).ready(function($) {
+        $("html").niceScroll({
+            scrollspeed: 10,
+            mousescrollstep: 10,
+            cursorwidth: "6px",
+            cursorcolor: "#888",
+            cursorborder: "none",
+            autohidemode: false,
+            horizrailenabled: false,
+            smoothscroll: true,
+            zindex: 9999
+        });
+    });
+    </script>
+    	
+
+<!--map toggle-->
+<script type="text/javascript" language="javascript">
+jQuery(".map-toggle .switch").click(function(){
+	jQuery(this).closest(".contact").toggleClass("toggle-active");
+	jQuery(this).closest(".map-toggle").toggleClass("toggle-active");
+	jQuery(this).toggleClass("toggle-active");
+});
+
+
+
+</script>
+
+</body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 7.6.2 on 2025-12-06 00:48:07 -->
