@@ -1842,6 +1842,12 @@ jQuery(".map-toggle .switch").click(function(){
 
 <p id="a11y-speak-intro-text" class="a11y-speak-intro-text" style="position: absolute;margin: -1px;padding: 0;height: 1px;width: 1px;overflow: hidden;clip: rect(1px, 1px, 1px, 1px);-webkit-clip-path: inset(50%);clip-path: inset(50%);border: 0;word-wrap: normal !important;" hidden="hidden">Notifications</p><div id="a11y-speak-assertive" class="a11y-speak-region" style="position: absolute;margin: -1px;padding: 0;height: 1px;width: 1px;overflow: hidden;clip: rect(1px, 1px, 1px, 1px);-webkit-clip-path: inset(50%);clip-path: inset(50%);border: 0;word-wrap: normal !important;" aria-live="assertive" aria-relevant="additions text" aria-atomic="true"></div><div id="a11y-speak-polite" class="a11y-speak-region" style="position: absolute;margin: -1px;padding: 0;height: 1px;width: 1px;overflow: hidden;clip: rect(1px, 1px, 1px, 1px);-webkit-clip-path: inset(50%);clip-path: inset(50%);border: 0;word-wrap: normal !important;" aria-live="polite" aria-relevant="additions text" aria-atomic="true"></div><div id="ascrail2000" class="nicescroll-rails" style="width: 15px; z-index: auto; cursor: default; position: fixed; top: 0px; height: 100%; right: 0px; opacity: 1;"><div style="position: relative; top: 0px; float: right; width: 15px; height: 62px; background-color: rgb(48, 48, 48); border: 0px; background-clip: padding-box; border-radius: 6px;"></div></div><div><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe title="reCAPTCHA" width="256" height="60" role="presentation" name="a-5j9ejfrwyegi" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LcyTCwqAAAAACNT04C04lKv1qPJh9ez4ClfoAGv&co=aHR0cHM6Ly93d3cuZG93bnRvd25kZW50YWwuY2E6NDQz&hl=en&v=TkacYOdEJbdB_JjX802TMer9&size=invisible&anchor-ms=20000&execute-ms=15000&cb=8p1t57ggoie7" style="opacity: 1;"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response-100000" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
 <style>
+	/* Hides the Google reCAPTCHA badge */
+  .grecaptcha-badge { 
+    visibility: hidden; 
+    opacity: 0;
+    pointer-events: none;
+  }
   /* Chat Widget Button */
   #chatbot-toggler {
     position: fixed;
@@ -2033,7 +2039,7 @@ jQuery(".map-toggle .switch").click(function(){
     const messageElement = chatElement.querySelector(".message");
     
     // API Endpoint for Gemini 1.5 Flash (Fast & Good for chat)
-    const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${API_KEY}`;
+    const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:generateContent?key=${API_KEY}`;
 
     const requestOptions = {
       method: "POST",
@@ -2089,4 +2095,12 @@ jQuery(".map-toggle .switch").click(function(){
       handleChat();
     }
   });
-</script></body></html><!-- Page cached by LiteSpeed Cache 7.6.2 on 2025-12-05 12:01:16 -->
+window.addEventListener("load", () => {
+    setTimeout(() => {
+      // Check if the bot is already open (just in case)
+      if (!document.body.classList.contains("body-show-chatbot")) {
+        document.body.classList.add("body-show-chatbot");
+      }
+    }, 2000); // 2000 milliseconds = 2 seconds delay
+  });
+  </script></body></html><!-- Page cached by LiteSpeed Cache 7.6.2 on 2025-12-05 12:01:16 -->
