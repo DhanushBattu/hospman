@@ -1856,14 +1856,14 @@ jQuery(".map-toggle .switch").click(function(){
     --radius-sm: 12px;
   }
 
-  /* ===== KEYFRAME ANIMATIONS ===== */
+  /* ===== ANIMATIONS ===== */
   @keyframes float {
     0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
+    50% { transform: translateY(-5px); }
   }
   @keyframes pulse-ring {
     0% { box-shadow: 0 0 0 0 rgba(74, 144, 226, 0.7), 0 10px 30px rgba(74, 144, 226, 0.4); }
-    70% { box-shadow: 0 0 0 12px rgba(74, 144, 226, 0), 0 15px 40px rgba(74, 144, 226, 0.6); }
+    70% { box-shadow: 0 0 0 10px rgba(74, 144, 226, 0), 0 15px 40px rgba(74, 144, 226, 0.6); }
     100% { box-shadow: 0 0 0 0 rgba(74, 144, 226, 0), 0 10px 30px rgba(74, 144, 226, 0.4); }
   }
   @keyframes slideUpFade {
@@ -1879,26 +1879,16 @@ jQuery(".map-toggle .switch").click(function(){
     50% { transform: translateY(-5px); }
   }
 
-  /* Hides the Google reCAPTCHA badge */
-
-  .grecaptcha-badge { 
-
-    visibility: hidden; 
-
-    opacity: 0;
-
-    pointer-events: none;
-
-  }
+  .grecaptcha-badge { visibility: hidden; opacity: 0; pointer-events: none; }
 
   /* ===== CHAT TOGGLER BUTTON ===== */
   #chatbot-toggler {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    width: 56px;
-    height: 56px;
-    border: none;
+    width: 64px;
+    height: 64px;
+    border: 4px solid white;
     border-radius: 50%;
     background: var(--primary-gradient);
     color: white;
@@ -1914,30 +1904,30 @@ jQuery(".map-toggle .switch").click(function(){
     overflow: visible;
   }
   #chatbot-toggler:hover {
-    transform: scale(1.1) rotate(5deg);
+    transform: scale(1.05) rotate(5deg);
     box-shadow: 0 25px 70px rgba(0, 123, 255, 0.35);
   }
   #chatbot-toggler img {
-    width: 36px;
-    height: 36px;
+    width: 38px;
+    height: 38px;
     object-fit: contain;
     animation: float 3.5s ease-in-out infinite;
   }
   .notification-badge {
     position: absolute;
-    top: -6px;
-    right: -6px;
+    top: -2px;
+    right: -2px;
     background: #ff4757;
     color: white;
-    width: 24px;
-    height: 24px;
+    width: 22px;
+    height: 22px;
     border-radius: 50%;
-    font-size: 12px;
+    font-size: 11px;
     font-weight: bold;
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 3px solid white;
+    border: 2px solid white;
     animation: bounce 2s ease-in-out infinite;
     z-index: 10000;
   }
@@ -1945,13 +1935,13 @@ jQuery(".map-toggle .switch").click(function(){
   /* ===== WELCOME BUBBLE ===== */
   .welcome-bubble {
     position: fixed;
-    bottom: 115px;
-    right: 28px;
+    bottom: 95px;
+    right: 20px;
     background: white;
-    padding: 18px 22px;
-    border-radius: var(--radius-md) var(--radius-md) 6px var(--radius-md);
+    padding: 16px 20px;
+    border-radius: var(--radius-md) var(--radius-md) 4px var(--radius-md);
     box-shadow: var(--shadow-md);
-    max-width: 280px;
+    max-width: 260px;
     opacity: 0;
     pointer-events: none;
     z-index: 9998;
@@ -1967,225 +1957,200 @@ jQuery(".map-toggle .switch").click(function(){
   }
   .welcome-bubble p {
     margin: 0;
-    font-size: 14px;
-    line-height: 1.6;
+    font-size: 13px;
+    line-height: 1.5;
     color: var(--text-dark);
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   }
-  .welcome-bubble strong {
-    color: #007bff;
-  }
+  .welcome-bubble strong { color: #007bff; }
   .welcome-bubble-close {
     position: absolute;
-    top: 8px;
-    right: 10px;
+    top: 6px;
+    right: 8px;
     cursor: pointer;
     color: #94a3b8;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 1;
-    transition: color 0.2s;
   }
-  .welcome-bubble-close:hover {
-    color: #475569;
-  }
+  .welcome-bubble-close:hover { color: #475569; }
 
-  /* ===== CHAT CONTAINER (GLASS MORPHISM) ===== */
+  /* ===== CHAT CONTAINER ===== */
   .chatbot-container {
     position: fixed;
-    bottom: 20px;
+    bottom: 90px;
     right: 20px;
     width: 360px;
-    height: 480px;
-    background: rgba(255, 255, 255, 0.95);
-    backdrop-filter: blur(20px) saturate(180%);
-    -webkit-backdrop-filter: blur(20px) saturate(180%);
+    height: 500px;
+    background: white;
     border-radius: var(--radius-xl);
-    box-shadow: var(--shadow-lg), 0 0 0 1px rgba(255, 255, 255, 0.2) inset;
+    box-shadow: var(--shadow-lg), 0 0 0 1px rgba(0,0,0,0.05);
     overflow: hidden;
     opacity: 0;
     pointer-events: none;
     transform: scale(0.9) translateY(20px);
-    transition: all 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+    transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
     z-index: 9999;
     display: flex;
     flex-direction: column;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    border: 1px solid rgba(255, 255, 255, 0.3);
   }
   .body-show-chatbot .chatbot-container {
     opacity: 1;
     pointer-events: auto;
     transform: scale(1) translateY(0);
-    animation: slideUpFade 0.6s ease;
+    animation: slideUpFade 0.4s ease;
   }
 
-  /* ===== HEADER WITH BLUE GRADIENT (SMALLER) ===== */
+  /* ===== HEADER (UPDATED) ===== */
   .chatbot-header {
     background: var(--primary-gradient);
-    padding: 10px 14px;
+    padding: 12px 16px;
     color: #fff;
-    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 12px;
     position: relative;
-    box-shadow: 0 4px 25px rgba(0, 123, 255, 0.2);
-    min-height:56px;
+    box-shadow: 0 4px 15px rgba(0, 123, 255, 0.15);
+    height: 70px;
   }
   .header-avatar {
-    width: 40px;
-    height: 40px;
+    width: 38px;
+    height: 38px;
     background: rgba(255, 255, 255, 0.95);
     border-radius: 50%;
-    margin: 0 auto 8px;
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-    border: 2px solid rgba(255, 255, 255, 0.9);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    flex-shrink: 0;
   }
   .header-avatar img {
-    width: 36px;
-    height: 36px;
-    animation: float 4s ease-in-out infinite;
+    width: 32px;
+    height: 32px;
     object-fit: contain;
   }
+  
+  /* --- KEY UPDATES HERE --- */
+  .header-info {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    margin-top: 20px;  
+    margin-left: 0px; /* Added padding to bring the text down visually */
+  }
   .header-title {
-    font-size: 14px;
+    font-size: 20px; /* Increased font size */
     font-weight: 700;
     margin: 0;
     color: white;
     letter-spacing: 0.3px;
+    line-height: 1.1;
+    font-family: 'Times New Roman', Times, serif; /* Changed to Times New Roman */
   }
   .header-subtitle {
-    font-size: 11px;
+    font-size: 13px;
     margin: 4px 0 0 0;
-    color: rgba(255, 255, 255, 0.9);
-    font-weight: 400;
-  }
-  .online-indicator {
-    display: inline-flex;
+    color: rgba(255, 255, 255, 0.95);
+    font-weight: 700; /* Made Bold */
+    display: flex;
     align-items: center;
-    gap: 6px;
-    margin-top: 6px;
+    gap: 4px;
+    font-family: 'Times New Roman', Times, serif; /* Changed to Times New Roman */
   }
+  /* ------------------------ */
+
   .online-dot {
-    width: 8px;
-    height: 8px;
+    width: 6px;
+    height: 6px;
     background: #4ade80;
     border-radius: 50%;
-    animation: pulse-ring 2s infinite;
-  }
-  .online-text {
-    font-size: 11px;
-    color: rgba(255, 255, 255, 0.95);
+    display: inline-block;
   }
   .close-btn {
-    position: absolute;
-    top: 12px;
-    right: 12px;
     cursor: pointer;
-    font-size: 22px;
-    width: 30px;
-    height: 30px;
+    font-size: 20px;
+    width: 28px;
+    height: 28px;
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 50%;
-    transition: all 0.3s;
+    transition: background 0.3s;
     color: white;
     background: rgba(255, 255, 255, 0.15);
-    backdrop-filter: blur(10px);
+    margin-left: auto;
   }
-  .close-btn:hover {
-    background: rgba(255, 255, 255, 0.25);
-    transform: rotate(90deg);
-  }
+  .close-btn:hover { background: rgba(255, 255, 255, 0.25); }
 
-  /* ===== CHAT MESSAGES AREA ===== */
+  /* ===== CHAT MESSAGES ===== */
   .chatbox {
     flex: 1;
     padding: 20px;
     overflow-y: auto;
-    background: linear-gradient(to bottom, #f8fafc 0%, #ffffff 100%);
+    background: #f8fafc;
     scroll-behavior: smooth;
   }
-  .chatbox::-webkit-scrollbar {
-    width: 6px;
-  }
-  .chatbox::-webkit-scrollbar-track {
-    background: transparent;
-  }
-  .chatbox::-webkit-scrollbar-thumb {
-    background: #cbd5e0;
-    border-radius: 3px;
-  }
-  .chatbox::-webkit-scrollbar-thumb:hover {
-    background: #94a3b8;
-  }
+  .chatbox::-webkit-scrollbar { width: 5px; }
+  .chatbox::-webkit-scrollbar-track { background: transparent; }
+  .chatbox::-webkit-scrollbar-thumb { background: #cbd5e0; border-radius: 3px; }
+
   .chat-timestamp {
     text-align: center;
     color: #94a3b8;
-    font-size: 12px;
-    margin: 16px 0;
+    font-size: 11px;
+    margin: 10px 0 16px;
     font-weight: 600;
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
   }
-  .chat-entry {
-    margin-bottom: 16px;
-    animation: fadeIn 0.4s ease;
-  }
+  .chat-entry { margin-bottom: 16px; animation: fadeIn 0.3s ease; }
   .chat-entry.incoming .message {
     background: white;
     color: var(--text-dark);
-    padding: 16px 20px;
-    border-radius: var(--radius-md) var(--radius-md) var(--radius-md) 6px;
-    font-size: 15px;
-    line-height: 1.7;
-    box-shadow: 0 3px 12px rgba(0, 123, 255, 0.08);
-    max-width: 88%;
-    border: 1px solid var(--primary-light);
+    padding: 14px 18px;
+    border-radius: var(--radius-md) var(--radius-md) var(--radius-md) 4px;
+    font-size: 14px;
+    line-height: 1.6;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    max-width: 85%;
+    border: 1px solid #e2e8f0;
   }
-  .chat-entry.outgoing {
-    display: flex;
-    justify-content: flex-end;
-  }
+  .chat-entry.outgoing { display: flex; justify-content: flex-end; }
   .chat-entry.outgoing .message {
     background: var(--primary-gradient);
     color: white;
-    padding: 16px 20px;
-    border-radius: var(--radius-md) var(--radius-md) 6px var(--radius-md);
-    font-size: 15px;
-    line-height: 1.7;
-    box-shadow: 0 3px 12px rgba(0, 123, 255, 0.25);
+    padding: 14px 18px;
+    border-radius: var(--radius-md) var(--radius-md) 4px var(--radius-md);
+    font-size: 14px;
+    line-height: 1.6;
+    box-shadow: 0 4px 12px rgba(0, 123, 255, 0.2);
     max-width: 80%;
   }
   .message-time {
-    font-size: 11px;
-    opacity: 0.8;
-    margin-top: 8px;
+    font-size: 10px;
+    opacity: 0.7;
+    margin-top: 6px;
     display: block;
-    font-weight: 500;
+    text-align: right;
   }
 
-  /* ===== QUICK ACTION BUTTONS ===== */
-  .quick-actions {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    margin-top: 16px;
-  }
+  /* ===== QUICK ACTIONS ===== */
+  .quick-actions { display: flex; flex-direction: column; gap: 8px; margin-top: 12px; }
   .quick-action-btn {
     background: white;
     border: 1px solid var(--primary-light);
-    padding: 14px 18px;
+    padding: 12px 16px;
     border-radius: var(--radius-sm);
-    font-size: 14px;
+    font-size: 13px;
     color: var(--text-dark);
     cursor: pointer;
-    transition: all 0.3s;
+    transition: all 0.2s;
     display: flex;
     align-items: center;
-    gap: 12px;
+    gap: 10px;
     font-family: inherit;
     width: 100%;
     text-align: left;
@@ -2194,89 +2159,58 @@ jQuery(".map-toggle .switch").click(function(){
   .quick-action-btn:hover {
     background: #f0f9ff;
     border-color: #007bff;
-    transform: translateX(5px);
-    box-shadow: 0 6px 18px rgba(0, 123, 255, 0.15);
+    transform: translateX(3px);
   }
-  .quick-action-btn svg {
-    width: 20px;
-    height: 20px;
-    stroke: #007bff;
-    flex-shrink: 0;
-  }
+  .quick-action-btn svg { width: 18px; height: 18px; stroke: #007bff; }
   .show-more-btn {
-    background: transparent;
-    border: none;
-    color: #007bff;
-    font-size: 14px;
-    padding: 10px 18px;
-    cursor: pointer;
-    font-family: inherit;
-    font-weight: 600;
-    width: 100%;
-    text-align: left;
-    transition: color 0.2s;
-  }
-  .show-more-btn:hover {
-    color: #0056b3;
+    background: transparent; border: none; color: #007bff; font-size: 12px;
+    padding: 8px; cursor: pointer; font-weight: 600; width: 100%; text-align: center;
   }
 
   /* ===== TYPING INDICATOR ===== */
-  .typing-indicator {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    padding: 6px 0;
-  }
+  .typing-indicator { display: inline-flex; align-items: center; gap: 5px; padding: 4px 0; }
   .typing-indicator span {
-    width: 8px;
-    height: 8px;
-    background: #007bff;
-    border-radius: 50%;
+    width: 6px; height: 6px; background: #007bff; border-radius: 50%;
     animation: bounce 1.4s infinite ease-in-out;
   }
-  .typing-indicator span:nth-child(1) {
-    animation-delay: -0.32s;
-  }
-  .typing-indicator span:nth-child(2) {
-    animation-delay: -0.16s;
-  }
+  .typing-indicator span:nth-child(1) { animation-delay: -0.32s; }
+  .typing-indicator span:nth-child(2) { animation-delay: -0.16s; }
 
-  /* ===== INPUT AREA (Moved above tabs) ===== */
+  /* ===== INPUT AREA ===== */
   .chat-input {
-    padding: 18px 20px;
-    border-top: 1px solid var(--primary-light);
-    border-bottom: 1px solid var(--primary-light);
+    padding: 16px;
+    border-top: 1px solid #e2e8f0;
     display: flex;
-    gap: 12px;
+    gap: 10px;
     background: white;
     align-items: flex-end;
+    border-bottom-left-radius: var(--radius-xl);
+    border-bottom-right-radius: var(--radius-xl);
   }
   .chat-input textarea {
     flex: 1;
-    border: 2px solid var(--primary-light);
-    border-radius: 28px;
-    padding: 14px 20px;
+    border: 1px solid #cbd5e1;
+    border-radius: 24px;
+    padding: 12px 16px;
     resize: none;
-    height: 48px;
-    max-height: 120px;
+    height: 46px;
+    max-height: 100px;
     outline: none;
     font-family: inherit;
-    font-size: 15px;
-    transition: all 0.3s;
+    font-size: 14px;
+    transition: all 0.2s;
     background: #f8fafc;
     color: var(--text-dark);
   }
   .chat-input textarea:focus {
     border-color: #007bff;
-    box-shadow: 0 0 0 4px rgba(0, 123, 255, 0.1);
     background: white;
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.1);
   }
-  .chat-input textarea::placeholder {
-    color: #94a3b8;
-  }
+  .chat-input textarea::placeholder { color: #94a3b8; }
   #send-btn {
-    width: 48px;
-    height: 48px;
+    width: 46px;
+    height: 46px;
     background: var(--primary-gradient);
     color: white;
     border-radius: 50%;
@@ -2284,133 +2218,56 @@ jQuery(".map-toggle .switch").click(function(){
     align-items: center;
     justify-content: center;
     cursor: pointer;
-    transition: all 0.3s;
-    box-shadow: 0 6px 18px rgba(0, 123, 255, 0.3);
+    transition: all 0.2s;
+    box-shadow: 0 4px 12px rgba(0, 123, 255, 0.25);
     border: none;
     flex-shrink: 0;
   }
-  #send-btn:hover {
-    transform: scale(1.08);
-    box-shadow: 0 10px 25px rgba(0, 123, 255, 0.4);
-  }
-  #send-btn:active {
-    transform: scale(0.95);
-  }
-  #send-btn svg {
-    width: 20px;
-    height: 20px;
-  }
+  #send-btn:hover { transform: scale(1.05); }
+  #send-btn svg { width: 18px; height: 18px; margin-left: -2px; }
 
-  /* ===== INPUT INFO ===== */
-  .input-info {
-    padding: 12px 20px;
-    background: #f8fafc;
-    border-top: 1px solid var(--primary-light);
-    font-size: 12px;
-    color: var(--text-light);
-    text-align: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
-  }
-  .input-info svg {
-    width: 16px;
-    height: 16px;
-    stroke: #007bff;
-  }
-
-  /* ===== BOTTOM TABS (Moved below input) ===== */
-  .chat-tabs {
-    display: flex;
-    background: white;
-    padding: 12px 16px;
-    border-bottom-left-radius: var(--radius-xl);
-    border-bottom-right-radius: var(--radius-xl);
-  }
-  .chat-tab {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 6px;
-    padding: 12px 10px;
-    border: none;
-    background: transparent;
-    color: #94a3b8;
-    font-size: 12px;
-    cursor: pointer;
-    transition: all 0.3s;
-    font-family: inherit;
-    border-radius: var(--radius-sm);
-    font-weight: 500;
-  }
-  .chat-tab:hover,
-  .chat-tab.active {
-    color: #007bff;
-    background: #f0f9ff;
-    transform: translateY(-2px);
-  }
-  .chat-tab svg {
-    width: 22px;
-    height: 22px;
-    stroke: currentColor;
-  }
-
-  /* ===== RESPONSIVE DESIGN ===== */
+  /* ===== RESPONSIVE ===== */
   @media (max-width: 480px) {
     .chatbot-container {
-      width: calc(100vw - 40px);
-      height: calc(100vh - 140px);
-      max-height: 650px;
+      width: calc(100vw - 30px);
+      height: calc(100vh - 120px);
       bottom: 20px;
-      right: 20px;
-      left: 20px;
-      margin: 0 auto;
+      right: 15px;
+      left: 15px;
     }
-    #chatbot-toggler {
-      right: 20px;
-      bottom: 20px;
-    }
-    .welcome-bubble {
-      right: 20px;
-      max-width: 260px;
-    }
+    #chatbot-toggler { right: 20px; bottom: 20px; }
   }
 </style>
 
-<!-- ===== CHAT WIDGET HTML ===== -->
 <button id="chatbot-toggler" aria-label="Open dental assistant chatbot">
-  <!-- Replace src with your downloaded animated dentist icon -->
-  <img src="assets/chatbot-icon.png" alt="Dental AI Assistant" onerror="this.src='assets/chatbot-icon.png'">
+  <img src="assets/chatbot-icon.png" alt="Dental AI Assistant" onerror="this.src='https://cdn-icons-png.flaticon.com/512/4712/4712035.png'">
   <span class="notification-badge">1</span>
 </button>
 
 <div class="welcome-bubble" id="welcome-bubble">
   <span class="welcome-bubble-close" onclick="closeWelcomeBubble()">&times;</span>
-  <p>👋 <strong>Hello! I'm your Dental Assistant.</strong> Need help booking an appointment or have questions about our services?</p>
+  <p>👋 <strong>Hi! I'm your Dental Assistant.</strong><br>How can I help you today?</p>
 </div>
 
 <div class="chatbot-container">
   <div class="chatbot-header">
-    <span class="close-btn">&times;</span>
     <div class="header-avatar">
-      <img src="assets/dentist-animated.gif" alt="Dental AI Assistant" onerror="this.src='assets/chatbot-icon.png'">
+      <img src="assets/dentist-animated.gif" alt="AI" onerror="this.src='https://cdn-icons-png.flaticon.com/512/4712/4712035.png'">
     </div>
-    <h2 class="header-title">Dental AI Assistant</h2>
-    <p class="header-subtitle">Downtown Toronto Dental</p>
-    <div class="online-indicator">
-      <span class="online-dot"></span>
-      <span class="online-text">Online now</span>
+    <div class="header-info">
+      <h2 class="header-title">Dental Assistant</h2>
+      <p class="header-subtitle">
+        <span class="online-dot"></span> Online now
+      </p>
     </div>
+    <span class="close-btn">&times;</span>
   </div>
 
   <ul class="chatbox">
     <div class="chat-timestamp">Today</div>
     <li class="chat-entry incoming">
       <div class="message">
-        Hi there! Welcome to Downtown Dental. How can I assist you today? You can ask about services, office hours, or book an appointment.
-        <span class="message-time">Just now</span>
+        Hi there! Welcome to Downtown Dental. How can I assist you today?
         <div class="quick-actions">
           <button class="quick-action-btn" onclick="quickAction('services')">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -2433,22 +2290,14 @@ jQuery(".map-toggle .switch").click(function(){
             </svg>
             Book an Appointment
           </button>
-          <button class="show-more-btn" onclick="quickAction('more')">Show More Options...</button>
         </div>
+        <span class="message-time">Just now</span>
       </div>
     </li>
   </ul>
 
-  <div class="input-info">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-      <circle cx="12" cy="12" r="10"/>
-      <path d="M12 16v-4M12 8h.01"/>
-    </svg>
-    Start typing to hide tabs and focus on conversation.
-  </div>
-
   <div class="chat-input">
-    <textarea placeholder="Type your message here..." required></textarea>
+    <textarea placeholder="Type your message..." required rows="1"></textarea>
     <button id="send-btn">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
         <line x1="22" y1="2" x2="11" y2="13"/>
@@ -2456,36 +2305,11 @@ jQuery(".map-toggle .switch").click(function(){
       </svg>
     </button>
   </div>
-
-  <div class="chat-tabs" id="chatTabs">
-    <button class="chat-tab active">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-        <circle cx="12" cy="12" r="1" fill="currentColor"/>
-        <circle cx="12" cy="5" r="1" fill="currentColor"/>
-        <circle cx="12" cy="19" r="1" fill="currentColor"/>
-      </svg>
-      Live Chat
-    </button>
-    <button class="chat-tab">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-        <circle cx="12" cy="12" r="10"/>
-        <path d="M12 6v6l4 2"/>
-      </svg>
-      History
-    </button>
-    <button class="chat-tab">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-        <circle cx="12" cy="12" r="10"/>
-        <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3M12 17h.01"/>
-      </svg>
-      FAQ
-    </button>
-  </div>
 </div>
 
 <script>
   // ================= CONFIGURATION =================
-  const API_KEY = "AIzaSyD9u0dUUq7fK1pyMC8bqZQbI5JN9qu-DzE"; // Your Gemini API Key
+  const API_KEY = 'GEMINI_API_KEY'; 
   // =================================================
 
   const chatbotToggler = document.querySelector("#chatbot-toggler");
@@ -2495,8 +2319,6 @@ jQuery(".map-toggle .switch").click(function(){
   const sendBtn = document.querySelector("#send-btn");
   const container = document.body;
   const welcomeBubble = document.getElementById("welcome-bubble");
-  const chatTabs = document.getElementById("chatTabs");
-  const inputInfo = document.querySelector(".input-info");
   const notificationBadge = document.querySelector(".notification-badge");
 
   const SYSTEM_PROMPT = `You are a helpful and professional customer support assistant for "Downtown Toronto Dental", located at 700 University Ave, Toronto.
@@ -2507,7 +2329,6 @@ jQuery(".map-toggle .switch").click(function(){
   let userMessage = null;
   let isTyping = false;
 
-  // Show welcome bubble after 2 seconds
   window.addEventListener("load", () => {
     setTimeout(() => {
       welcomeBubble.classList.add("show");
@@ -2528,7 +2349,6 @@ jQuery(".map-toggle .switch").click(function(){
       'services': 'What dental services do you offer?',
       'hours': 'What are your office hours and location?',
       'appointment': 'I would like to book a dental appointment',
-      'more': 'What other services do you provide?'
     };
     if (messages[action]) {
       chatInput.value = messages[action];
@@ -2567,18 +2387,22 @@ jQuery(".map-toggle .switch").click(function(){
     try {
       const response = await fetch(API_URL, requestOptions);
       const data = await response.json();
-      if (!response.ok) throw new Error(data.error.message);
-      const apiResponse = data.candidates[0].content.parts[0].text.replace(/\*\*/g, "");
+      if (!response.ok) throw new Error(data.error?.message || "API Error");
+      
+      let apiResponse = data.candidates[0].content.parts[0].text;
+      apiResponse = apiResponse.replace(/\*\*/g, "").replace(/\*/g, "");
+
       setTimeout(() => {
         messageElement.innerHTML = `${apiResponse}<span class="message-time">${getCurrentTime()}</span>`;
         isTyping = false;
+        chatbox.scrollTo(0, chatbox.scrollHeight);
       }, 800);
     } catch (error) {
       setTimeout(() => {
-        messageElement.innerHTML = `Oops! Something went wrong. Please call us at <strong>(416) 593-5111</strong>.<span class="message-time">${getCurrentTime()}</span>`;
+        messageElement.innerHTML = `Please give us a call at <strong>(416) 593-5111</strong> for immediate assistance.<span class="message-time">${getCurrentTime()}</span>`;
         isTyping = false;
+        console.error("Chatbot Error:", error);
       }, 800);
-      console.error(error);
     }
   };
 
@@ -2589,40 +2413,24 @@ jQuery(".map-toggle .switch").click(function(){
     welcomeBubble.classList.remove("show");
     if (notificationBadge) notificationBadge.style.display = 'none';
 
-    // Append user message
     chatbox.appendChild(createChatLi(userMessage, "outgoing"));
     chatbox.scrollTo(0, chatbox.scrollHeight);
     chatInput.value = "";
-    chatInput.style.height = "48px";
+    chatInput.style.height = "46px";
 
-    // Show typing indicator and generate response
     setTimeout(() => {
       const incomingChatLi = createChatLi("", "incoming");
       chatbox.appendChild(incomingChatLi);
       chatbox.scrollTo(0, chatbox.scrollHeight);
       generateResponse(incomingChatLi);
-    }, 300);
+    }, 400);
   };
 
-  // Auto-resize textarea
   chatInput.addEventListener("input", () => {
-    chatInput.style.height = "48px";
-    chatInput.style.height = Math.min(chatInput.scrollHeight, 120) + "px";
+    chatInput.style.height = "46px";
+    chatInput.style.height = Math.min(chatInput.scrollHeight, 100) + "px";
   });
 
-  // Hide tabs when typing
-  chatInput.addEventListener("focus", () => {
-    chatTabs.style.display = "none";
-    inputInfo.style.display = "none";
-  });
-  chatInput.addEventListener("blur", () => {
-    if (!chatInput.value.trim()) {
-      chatTabs.style.display = "flex";
-      inputInfo.style.display = "flex";
-    }
-  });
-
-  // Event Listeners
   chatbotToggler.addEventListener("click", () => {
     container.classList.toggle("body-show-chatbot");
     welcomeBubble.classList.remove("show");
@@ -2634,8 +2442,6 @@ jQuery(".map-toggle .switch").click(function(){
 
   closeBtn.addEventListener("click", () => {
     container.classList.remove("body-show-chatbot");
-    chatTabs.style.display = "flex";
-    inputInfo.style.display = "flex";
   });
 
   sendBtn.addEventListener("click", handleChat);
@@ -2644,14 +2450,6 @@ jQuery(".map-toggle .switch").click(function(){
       e.preventDefault();
       handleChat();
     }
-  });
-
-  // Tab switching
-  document.querySelectorAll('.chat-tab').forEach(tab => {
-    tab.addEventListener('click', function() {
-      document.querySelectorAll('.chat-tab').forEach(t => t.classList.remove('active'));
-      this.classList.add('active');
-    });
   });
 </script>
 </body>
