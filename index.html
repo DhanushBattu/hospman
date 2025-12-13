@@ -2309,7 +2309,7 @@ jQuery(".map-toggle .switch").click(function(){
 
 <script>
   // ================= CONFIGURATION =================
-  const API_KEY = 'GEMINI_API_KEY'; 
+  
   // =================================================
 
   const chatbotToggler = document.querySelector("#chatbot-toggler");
@@ -2369,27 +2369,33 @@ jQuery(".map-toggle .switch").click(function(){
     return chatLi;
   };
 
+  // File: index.html (Inside the <script> tag)
+
   const generateResponse = async (chatElement) => {
     const messageElement = chatElement.querySelector(".message");
-    const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:generateContent?key=${API_KEY}`;
+    
+    // --- CHANGE 1: We now talk to YOUR Vercel backend, not Google ---
+    const API_URL = "/api/chat"; 
+    // ----------------------------------------------------------------
 
     const requestOptions = {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
-        contents: [{
-          role: "user",
-          parts: [{ text: SYSTEM_PROMPT + "\n\nUser Query: " + userMessage }]
-        }]
+        // We pass the data to your backend
+        userMessage: userMessage, 
+        systemPrompt: SYSTEM_PROMPT
       })
     };
 
     try {
       const response = await fetch(API_URL, requestOptions);
       const data = await response.json();
-      if (!response.ok) throw new Error(data.error?.message || "API Error");
       
-      let apiResponse = data.candidates[0].content.parts[0].text;
+      if (!response.ok) throw new Error(data.error || "Network response was not ok");
+      
+      // Clean up the markdown
+      let apiResponse = data.text;
       apiResponse = apiResponse.replace(/\*\*/g, "").replace(/\*/g, "");
 
       setTimeout(() => {
@@ -2397,6 +2403,7 @@ jQuery(".map-toggle .switch").click(function(){
         isTyping = false;
         chatbox.scrollTo(0, chatbox.scrollHeight);
       }, 800);
+      
     } catch (error) {
       setTimeout(() => {
         messageElement.innerHTML = `Please give us a call at <strong>(416) 593-5111</strong> for immediate assistance.<span class="message-time">${getCurrentTime()}</span>`;
